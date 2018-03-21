@@ -91,7 +91,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="titles-convoca sombra">Sombras del indulto</h1>
+                <h1 class="titles-convoca sombra">La caída del Presidente</h1>
                 <p>
                     El indulto al exgobernante Alberto Fujimori, condenado a 25 años de prisión por
                     crímenes contra los derechos humanos y corrupción, ha sido un tema que ha dividido a la opinión pública
@@ -137,7 +137,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="titles-convoca">Las sentencias contra Alberto Fujimori</h1>
+                <h1 class="titles-convoca">Cronología de la crisis</h1>
             </div>
         </div>
 
@@ -285,62 +285,15 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
-                <a class="title-link-short" href="http://www.convoca.pe/agenda-propia/pativilca-la-masacre-del-gobierno-de-fujimori-que-kuczynski-trata-que-se-olvide" target="_blank">
-                <h1 class="titles-convoca">Pativilca: La masacre del gobierno de Fujimori que Kuczynski trata que se olvide</h1>
-                </a>
-                <a href="http://www.convoca.pe/agenda-propia/pativilca-la-masacre-del-gobierno-de-fujimori-que-kuczynski-trata-que-se-olvide" target="_blank">
-                    <img class="div-img-responsive" src="imagen/caso_pativilca.jpg">
-                </a>
+                <h1 class="titles-convoca">El camino a la renuncia presidencial</h1>
+                <img class="div-img-responsive" src="imagen/linea_crisis.jpg">
             </div>
         </div>
     </div>
 </section>
 <section id="fifth-section">
     <div class="container">
-        <h1 class="titles-convoca">Bitácora post indulto</h1>
-        <div class="row">
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/nota_indulto.jpg">
-                <div class="middle middle-delete">
-                    <a href="http://www.convoca.pe/agenda-propia/en-solo-dos-dias-se-proceso-y-recomendo-el-indulto-fujimori-en-el-ministerio-de" target="_blank">
-                        <div class="text">
-                            En solo dos días se procesó y recomendó el indulto a Fujimori en el Ministerio de Justicia
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/ppk_solo_1.jpeg">
-                <div class="middle middle-delete">
-                    <a href="http://www.convoca.pe/agenda-propia/ola-de-renuncias-en-el-gobierno-por-el-indulto-alberto-fujimori" target="_blank">
-                        <div class="text">OLA DE RENUNCIAS EN EL GOBIERNO POR EL INDULTO A ALBERTO FUJIMORI</div>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="content-hover center-delete col-md-12">
-                <img class="div-img-responsive img-hover img-note img-delete" src="imagen/yukimori.jpg">
-                <div class="middle middle-delete">
-                    <a href="http://www.convoca.pe/agenda-propia/kuczynski-indulto-fujimori-tras-ser-salvado-de-vacancia-presidencial" target="_blank">
-                        <div class="text">Kuczynski indultó a Fujimori tras ser salvado de vacancia presidencial</div>
-                    </a>
-                </div>
-            </div>
-            <!-- <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="https://e.an.amtv.pe/ppk-reconciliacion-y-reconstruccion-pais-sola-fuerza-624x352-428138.jpg">
-                <div class="middle">
-                    <a href="#" target="_blank">
-                        <div class="text">John Doe</div>
-                    </a>
-                </div>
-            </div> -->
-        </div>
-    </div>
-</section>
-<section id="sixth-section">
-    <div class="container">
-        <h1 class="titles-convoca">Grupo Colina: Crímenes confesos</h1>
+        <h1 class="titles-convoca">Revelaciones de los #Kenjivideos</h1>
         <p>
             El grupo paramilitar Colina fue un destacamentro de inteligencia  creado en el Ejército durante el gobierno del
             expresidente Alberto Fujimori para realizar ejecuciones extrajudiciales de supuestos terroristas.
@@ -369,12 +322,7 @@
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <audio controls>
-                    <source src="horse.ogg" type="audio/ogg">
-                    <source src="audio/colina_pablo_atuncar.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <img class="div-img-responsive img-hover img-audio" src="imagen/atuncar.jpg">
+                <iframe class="video-youtube" src="https://www.youtube.com/embed/OTrr206KiFA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
@@ -472,112 +420,67 @@
         </div>
     </div>
 </section>
+<section id="sixth-section">
+    <div class="container">
+        <h1 class="titles-convoca">Kuczynski y sus nexos con Odebrecht</h1>
+        <div class="row">
+            <div class="content-hover col-md-6">
+                <img class="div-img-responsive img-hover img-note" src="http://convoca.pe/sites/default/files/styles/full_post/public/ppkuco.jpg">
+                <div class="middle middle-delete">
+                    <a href="http://convoca.pe/agenda-propia/uif-detecta-transferencias-por-us-900-mil-empresa-de-ppk-que-no-fueron-reportadas-por" target="_blank">
+                        <div class="text">
+                            UIF DETECTA TRANSFERENCIAS POR US$ 900 MIL A EMPRESA DE PPK QUE NO FUERON REPORTADAS POR ODEBRECHT
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="content-hover col-md-6">
+                <img class="div-img-responsive img-hover img-note" src="http://convoca.pe/sites/default/files/styles/full_post/public/ultimoppk_0.jpg">
+                <div class="middle middle-delete">
+                    <a href="http://convoca.pe/agenda-propia/la-conferencia-de-ppk-que-confeso-odebrecht" target="_blank">
+                        <div class="text">LA CONFERENCIA DE PPK QUE CONFESÓ ODEBRECHT</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="content-hover col-md-6">
+                <img class="div-img-responsive img-hover img-note" src="http://convoca.pe/sites/default/files/styles/full_post/public/000467890w.jpg">
+                <div class="middle middle-delete">
+                    <a href="http://convoca.pe/agenda-propia/se-inicia-nuevo-proceso-en-el-legislativo-para-destituir-al-presidente-kuczynski" target="_blank">
+                        <div class="text">SE INICIA NUEVO PROCESO EN EL LEGISLATIVO PARA DESTITUIR AL PRESIDENTE KUCZYNSKI</div>
+                    </a>
+                </div>
+            </div>
+            <div class="content-hover col-md-6">
+                <img class="div-img-responsive img-hover img-note" src="http://convoca.pe/sites/default/files/styles/full_post/public/portada-3.jpg">
+                <div class="middle middle-delete">
+                    <a href="http://convoca.pe/agenda-propia/caso-odebrecht-barata-revela-modus-operandi-de-aportes-campana-de-keiko-fujimori" target="_blank">
+                        <div class="text">CASO ODEBRECHT: BARATA REVELA MODUS OPERANDI DE APORTES A CAMPAÑA DE KEIKO FUJIMORI</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section id="seventh-section">
     <div class="container">
-        <h1 class="titles-convoca">Memorias del autogolpe</h1>
+        <a style="color: black; text-decoration: none;" href="http://www.convoca.pe/agenda-propia/accede-al-audio-y-transcripcion-del-interrogatorio-de-comision-lava-jato-kuczynski" target="_blank"><h1 class="titles-convoca">El interrogatorio a PPK</h1></a>
+        <h6 class="titles-convoca">El audio y la transcripción de la sesión extraordinaria de la Comisión Lava Jato del Congreso en Palacio de Gobierno con el saliente presidente  Pedro Pablo Kuczynski por sus vínculos con la empresa Odebrecht.</h6>
+        <br>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
                 <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
             </div>
-        </div>
-    </div>
-</section>
-<section id="eighth-section">
-    <div class="container">
-        <h1 class="titles-convoca">Lo que investigó el Congreso</h1>
-        <div class="row">
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/compra_canales.jpg">
-                <div class="middle">
-                    <a href="http://convoca.pe/archivorecuperado/caso/compra-de-canales-y-condicionamiento-de-lineas-editoriales/" target="_blank">
-                        <div class="text">Compra de canales y de líneas editoriales</div>
-                    </a>
-                </div>
+            <div class="col-md-6">
+                <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
             </div>
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/prensa_chicha.jpg">
-                <div class="middle">
-                    <a href="http://convoca.pe/archivorecuperado/caso/prensa-chicha/" target="_blank">
-                        <div class="text">Prensa chicha</div>
-                    </a>
-                </div>
+            <div class="col-md-6">
+                <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
             </div>
-        </div>
-        <div class="row">
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/donaciones_fujimori.jpg">
-                <div class="middle">
-                    <a href="http://convoca.pe/archivorecuperado/caso/donaciones-durante-el-gobierno-de-alberto-fujimori/" target="_blank">
-                        <div class="text">Donaciones en gobierno de Fujimori</div>
-                    </a>
-                </div>
+            <div class="col-md-6">
+                <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
             </div>
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/re_reeleccion_fujimori.jpeg">
-                <div class="middle">
-                    <a href="http://convoca.pe/archivorecuperado/caso/re-reeleccion-de-fujimori/" target="_blank">
-                        <div class="text">Re-reelección de Fujimori</div>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/casa_militar_palacio.jpg">
-                <div class="middle">
-                    <a href="http://convoca.pe/archivorecuperado/caso/casa-militar-de-palacio-de-gobierno-y-adquisiciones-del-ejercito/" target="_blank">
-                        <div class="text">Casa Militar de Palacio de Gobierno y compras del Ejército</div>
-                    </a>
-                </div>
-            </div>
-            <div class="content-hover col-md-6">
-                <img class="div-img-responsive img-hover img-note" src="imagen/decretos_urgencia.jpg">
-                <div class="middle">
-                    <a href="http://convoca.pe/archivorecuperado/caso/decretos-de-urgencia-secretos/" target="_blank">
-                        <div class="text">Decretos de urgencia secretos</div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section id="slider">
-    <div class="container">
-        <div id="demo" class="carousel slide" data-ride="carousel">
-            <ul class="carousel-indicators">
-                <li data-target="#demo" data-slide-to="0" class="active"></li>
-                <li data-target="#demo" data-slide-to="1"></li>
-                <li data-target="#demo" data-slide-to="2"></li>
-            </ul>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="imagen/ppk_solo_1.jpeg" alt="Los Angeles" width="1100" height="500">
-                    <div class="carousel-caption">
-                        <h3>Los Angeles</h3>
-                        <p>We had such a great time in LA!</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="imagen/ppk_solo_1.jpeg" alt="Los Angeles" width="1100" height="500">
-                    <div class="carousel-caption">
-                        <h3>Chicago</h3>
-                        <p>Thank you, Chicago!</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img src="imagen/ppk_solo_1.jpeg" alt="Los Angeles" width="1100" height="500">
-                    <div class="carousel-caption">
-                        <h3>New York</h3>
-                        <p>We love the Big Apple!</p>
-                    </div>
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                <span class="carousel-control-prev-icon"></span>
-            </a>
-            <a class="carousel-control-next" href="#demo" data-slide="next">
-                <span class="carousel-control-next-icon"></span>
-            </a>
         </div>
     </div>
 </section>
