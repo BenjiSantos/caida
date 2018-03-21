@@ -1,0 +1,266 @@
+.nav-convoca {
+    background: black;
+}
+
+.navbar-brand, .icons-convoca {
+    color: white !important;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.logo-convoca {
+    width: 150px;
+}
+
+.video-convoca {
+   height: 650px;
+}
+
+.titles-convoca {
+    text-align: center;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.img-redondas {
+    width:180px;
+    height:180px;
+    border-radius:90px;
+}
+
+.div-img-responsive {
+    text-align: center;
+    width: 100%;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.margin-div-row {
+    margin-top: 20px;
+}
+
+#second-section, #third-section,
+#fourth-section, #fifth-section, #sixth-section,
+#seventh-section, #eighth-sectionm, #ninth-section {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.content-hover {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.content-hover audio {
+    width: 100% !important;
+}
+
+.content-hover:hover .img-hover{
+    opacity: 0.3;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%)
+}
+
+.middle-delete {
+    width: 520px;
+}
+
+.content-hover:hover .middle {
+    opacity: 1;
+}
+
+.text {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.middle a {
+    text-decoration: none;
+}
+
+.text-footer {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.links-footer li {
+    list-style: none;
+}
+
+.links-footer li a {
+    margin-top: 8px;
+    color: rgb(238, 160, 49);
+}
+
+footer {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.show-more-links {
+    cursor: pointer;
+    color: deepskyblue !important;
+}
+
+#first-section {
+    background-color: black;
+}
+
+.link-memorias {
+    color: red;
+    font-size: 14px;
+}
+
+.text-audio {
+    font-size: 14px;
+}
+
+.separator-bottom {
+    padding-bottom: 20px;
+}
+
+.img-audio {
+    min-height: 80%;
+}
+
+.img-note {
+    min-height: 100%;
+}
+
+.icons-partner-two {
+    width: 160px;
+}
+
+.title-link-short {
+    font-size: 15px;
+    color: black;
+    text-decoration: none;
+}
+
+.center-delete {
+    text-align: center;
+}
+
+.img-delete {
+    width: 52%;
+}
+
+.none-display {
+    display: none;
+}
+
+.sombra {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 575px) {
+    video {
+        height: 220px;
+    }
+    .none-display {
+        display: block;
+    }
+    .none-display-video {
+        display: none;
+    }
+    .img-delete {
+        width: 100%;
+    }
+    .footer-container {
+        text-align: center;
+    }
+    .icons-partners {
+        width: 100%;
+        height: 100px;
+    }
+    .logo-convoca {
+        width: 45%;
+    }
+    .links-footer {
+        padding: 0px;
+    }
+    .middle-delete {
+        width: 100%;
+    }
+    .middle {
+        top: 50%;
+    }
+    .ul-convoca {
+        width: 65%;
+    }
+    .logo-convoca {
+        width: 35%;
+    }
+    .navbar-brand, .icons-convoca {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .icon-sus {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 767px) {
+    video {
+        height: 220px;
+    }
+    .none-display {
+        display: block;
+    }
+    .none-display-video {
+        display: none;
+    }
+    .navbar-brand, .icons-convoca {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .footer-container {
+        text-align: center;
+    }
+    .logo-convoca {
+        width: 45%;
+    }
+    .nav-convoca-items {
+        width: 48%;
+    }
+    .links-footer {
+        padding: 0px;
+    }
+    .img-delete {
+        width: 100%;
+    }
+    .middle-delete {
+        width: 200px;
+    }
+    .middle {
+        top: 50%;
+    }
+    .ul-convoca {
+        width: 65%;
+        padding-top: 15px;
+    }
+    .logo-convoca {
+        width: 35%;
+    }
+    .icon-sus {
+        font-size: 12px;
+    }
+}
