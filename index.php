@@ -75,7 +75,12 @@
 <section id="first-section">
     <div class="container-fluid">
         <div class="row banner">
-            <img style="width: 100%" height="650" src="imagen/despedida_ppk.png">
+            <video class="none-display-video" style="width: 100%" height="600" autoplay>
+                <source src="audio/video_ppk.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+            <img class="imgmob" style="width: 100%" height="650" src="imagen/despedida_ppk.png">
         </div>
     </div>
 </section>
