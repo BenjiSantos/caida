@@ -30,7 +30,7 @@
 
         <meta property="og:site_name" content="http://investigalavajato.convoca.pe/lacaidadekuczynski/"/>
         <meta property="og:title" content="La caída de Kuczynski"/>
-        <meta property="og:description" content="La caída de del Presidente: Conoce cómo fueron los últimos días de PPK tras el segundo intento de vacancia y los #Kenjivideos"/>
+        <meta property="og:description" content="Conoce cómo fueron los últimos días de PPK tras el segundo intento de vacancia y los #Kenjivideos"/>
         <meta property="og:type" content="website"/>
         <meta property="og:url" content="http://investigalavajato.convoca.pe/lacaidadekuczynski"/>
         <meta property="og:image" content="http://investigalavajato.convoca.pe/lacaidadekuczynski/imagen/share.jpeg"/>
@@ -74,11 +74,8 @@
 <body>
 <section id="first-section">
     <div class="container-fluid">
-        <div class="row none-display-video">
-            <img width="1280" height="650" src="imagen/despedida_ppk.png">
-        </div>
-        <div class="row none-display">
-            <img class="div-img-responsive img" src="imagen/final4fuji.jpg">
+        <div class="row banner">
+            <img style="width: 100%" height="650" src="imagen/despedida_ppk.png">
         </div>
     </div>
 </section>
@@ -113,7 +110,7 @@
         <!-- Text and image 1 -->
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
-                <h6>El inicio de la crisis de PPK</h6>
+                <h6 style="font-weight: bold">El primer pedido de vacancia</h6>
                 <p>
                     Con una votación agónica en el Congreso, Kuczynski logró permanecer en el cargo en medio del escándalo
                     Lava Jato y gracias a la ayuda de congresistas agrupados por Kenji Fujimori, que se abstuvieron de votar
@@ -132,7 +129,7 @@
                 <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/ultimoppk_0.jpg?itok=T66wQClI">
             </div>
             <div class="col-md-10 col-xs-12">
-                <h6>Revelación de Odebrecht sobre conferencia de PPK</h6>
+                <h6 style="font-weight: bold">Revelación de Odebrecht sobre conferencia de PPK</h6>
                 <p>
                     Marcelo Odebrecht aseguró en el interrogatorio en Curitiba de noviembre último que Pedro Pablo Kuczynski,
                     luego de ser funcionario en el gobierno de Alejandro Toledo y antes de su elección como Presidente,
@@ -146,7 +143,7 @@
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>Confesiones de Barata en Sao Paulo</h6>
+                    <h6 style="font-weight: bold">Confesiones de Barata en Sao Paulo</h6>
                 Jorge Barata, ex Superintendente de Odebrecht en Perú, señaló que entregó 300 mil dólares para la campaña
                 electoral de 2011, año que postuló Kuczynski a la Presidencia del Perú al frente de la Alianza por el Gran
                 Cambio. El exdirectivo de Odebrecht relató que la intermediaria fue la empresaria Susana de la Puente,
@@ -166,7 +163,7 @@
             </div>
             <div class="col-md-10 col-xs-12">
                 <p>
-                <h6>Se inicia nuevo proceso en el legislativo para destituir al presidente kuczynski</h6>
+                <h6 style="font-weight: bold">Se inicia nuevo proceso en el legislativo para destituir al presidente Kuczynski</h6>
                 Apenas dos meses después de que PPK se salvará de la destitución en el Congreso, se volvió a presentar una moción de vacancia presidencial en su contra por "incapacidad moral", con la adhesión de 30 legisladores de distintas bancadas parlamentarias. Se estimaba que este pedido sería debatido y votado en el pleno del Legislativo el 22 de marzo, tras la presentación de Kuczynski ante la Comisión Lava Jato.
                     <a href="http://convoca.pe/agenda-propia/se-inicia-nuevo-proceso-en-el-legislativo-para-destituir-al-presidente-kuczynski" target="_blank" class="show-more-links">Ver más</a>
                 </p>
@@ -176,7 +173,7 @@
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>UIF detecta transferencias por US$ 900 mil a empresas de PPK que no fueron reportadas por Odebrecht</h6>
+                    <h6 style="font-weight: bold">UIF detecta transferencias por US$ 900 mil a empresas de PPK que no fueron reportadas por Odebrecht</h6>
                 Al menos tres transferencias bancarias por un total de US$ 903,000, depositados en 2007 por consorcios
                 manejados por Odebrecht a nombre de la empresa del mandatario PPK, no fueron reportados por la mencionada
                 constructora a las autoridades peruanas, según se desprende de documentos de la Unidad de Inteligencia
@@ -196,7 +193,7 @@
             </div>
             <div class="col-md-10 col-xs-12">
                 <p>
-                <h6>Cambios de funcionarios contradicen la versión del gobierno</h6>
+                <h6 style="font-weight: bold">Cambios de funcionarios contradicen la versión del gobierno</h6>
                 Convoca.pe encontró que por lo menos dos funcionarios de Tumbes fueron desginados en los puestos mencionados
                 por el legislador Bienvenido Ramírez en uno de los 'Kenjivideos',  un mes y medio después que este legislador
                 se abstuviera de votar a favor de la vacancia presidencial de Kuczynski.
@@ -209,7 +206,7 @@
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
                 <p>
-                <h6>Los nexos políticos del destituido funcionario que aparece en los #KenjiVideos</h6>
+                <h6 style="font-weight: bold">Los nexos políticos del destituido funcionario que aparece en los #KenjiVideos</h6>
                 El funcionario Fredy Aragón Valdez, una de las personas grabadas por el legislador fujimorista Moisés Mamani para sustentar la “compra” de votos por parte del gobierno de Pedro Pablo Kuczynski, fue destituido tras la difusión de audios y videos en el Congreso por parte de la bancada de Fuerza Popular, unas horas antes.
                 Aragón estuvo vinculado a Perú Posible, el partido fundado por Alejandro Toledo, exmandatario prófugo en Estados Unidos por presuntos sobornos de Odebrecht. Aragón ingresó a Sucamec en 2016 durante la gestión ministerial de Carlos Basombrío, quien fue viceministro del Interior y jefe de Gabinete de Asesores de este ministerio durante el gobierno de Toledo (2001-2006).
                 <a href="http://convoca.pe/agenda-propia/los-nexos-politicos-del-destituido-funcionario-que-aparece-en-kenjivideos" target="_blank" class="show-more-links">Ver más</a>
@@ -225,39 +222,14 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="titles-convoca">El camino a la renuncia presidencial</h1>
                 <img class="div-img-responsive" src="imagen/linea_crisis.jpg">
             </div>
         </div>
     </div>
 </section>
-<section id="none-section">
-  <div class="container-fluid">
-      <div class="row">
-          <div class="col-md-12">
-              <a style="color: black; text-decoration: none;" href="http://www.convoca.pe/agenda-propia/kenjivideos-cambios-de-funcionarios-de-tumbes-contradicen-version-del-gobierno-y" target="_blank"><h1 class="titles-convoca">Cambios de funcionarios contradicen versión del gobierno</h1></a>
-              <h6 class="titles-convoca">Convoca.pe detectó que autoridades fueron nombradas luego que legislador fujimorista se abstuviera de votar a favor de la vacancia presidencial de Kuczynski.</h6>
-          </div>
-      </div>
-  </div>
-</section>
 <section id="fifth-section">
     <div class="container">
         <h1 class="titles-convoca">Revelaciones de los #Kenjivideos</h1>
-        <p>
-            El grupo paramilitar Colina fue un destacamentro de inteligencia  creado en el Ejército durante el gobierno del
-            expresidente Alberto Fujimori para realizar ejecuciones extrajudiciales de supuestos terroristas.
-            La justicia peruana determinó que no actuaron aisladamente, sino que respondían a una política de lucha
-            contra la subversión diseñada por Fujimori.
-            Estos oficiales y suboficiales de inteligencia del Ejército perpetraron crímenes como el asesinato de
-            nueve estudiantes y un profesor de la Universidad Nacional Enrique Guzmán y Valle - La Cantuta así como
-            el crimen de 16 personas en una 'pollada' en Barrios Altos. Por estos hechos Fujimori fue condenado a 25 años
-            de prisión, pena que no cumplirá en su totalidad pues el 24 de diciembre pasado, vísperas de la Navidad, fue
-            beneficiado con un indulto.
-            Aquí podrá escuchar parte de las declaraciones que los exintegrantes del Grupo Colina brindaron durante
-            el juicio público seguido contra Alberto Fujimori, en ellas se revelan cómo operaban, su cruel accionar y, además,
-            la vinculación del exmandatario con esta agrupación paramilitar.
-        </p>
         <div class="row separator-bottom">
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
@@ -312,7 +284,7 @@
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <iframe class="video-youtube" src="https://www.youtube.com/embed/ItkSWbOxjNY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/ItkSWbOxjNY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         <div class="row separator-bottom">
@@ -326,7 +298,7 @@
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <iframe class="video-youtube" src="https://www.youtube.com/embed/UUADJ-70L-Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/UUADJ-70L-Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
@@ -414,10 +386,9 @@
         </div>
     </div>
 </section>
-<section>
+<section style="margin-bottom: 10px">
   <div class="container">
-      <a style="color: black; text-decoration: none;" href="http://convoca.pe/convoca-radio/avelino-guillen-congresistas-de-los-kenjivideos-incurrieron-en-dos-delitos" target="_blank"><h1 class="titles-convoca">Avelino Guillén: Congresistas de los ‘KenjiVídeos’ incurrieron en delitos
-Programa #CaféConvoca sobre el caso Kuczynski</h1></a>
+      <a style="color: black; text-decoration: none;" href="http://convoca.pe/convoca-radio/avelino-guillen-congresistas-de-los-kenjivideos-incurrieron-en-dos-delitos" target="_blank"><h1 class="titles-convoca">Avelino Guillén: Congresistas de los ‘KenjiVídeos’ incurrieron en delitos</h1></a>
       <h6 class="titles-convoca">Así lo aseguró el exfiscal superior, durante la emisión del primer programa radial de Convoca, en respuesta a la crisis política que enfrenta el Perú y que terminó con la renuncia del mandatario Pedro Pablo Kuczynski</h6>
       <br>
       <div class="row">
@@ -435,50 +406,49 @@ Programa #CaféConvoca sobre el caso Kuczynski</h1></a>
               <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
           </div> -->
           <div class="col-md-12">
-              <img style="width: 100%" src="imagen/fotoguillen.jpeg">
+              <img class="div-img-responsiver" src="imagen/fotoguillen.jpeg">
           </div>
       </div>
 
   </div>
 </section>
-<section id="ninth-section">
+<section id="ninth-" style="margin-top: 22px">
     <div class="container">
         <div class="row">
             <div class="col-md-12 titles-convoca">
                 <a href="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" class="link-memorias">
-                    <img class="div-img-responsive" src="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/img/andina.jpg">
+                    Explora un centenar de publicaciones sobre pagos de sobornos y financiamiento de campaña de las constructoras brasileñas y sus socias peruanas a altos funcionarios, políticos y empresarios peruanos
+                    <img class="div-img-responsiver" src="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/img/andina.jpg">
+                    <br><br>
                 </a>
             </div>
             <div class="texto-tit">
-              <h1 class="text-center"><b>Expediente Lava Jato en Perú</b></h1>
-            </div>
-            <div class="texto-tit" style="margin-top:400px;margin-left:5%;margin-right:15%;">
-              <h6 class="text-center" style="color:#fff;">Explora un centenar de publicaciones sobre pagos de sobornos y financiamiento de campaña de las constructoras brasileñas y sus socias peruanas a altos funcionarios, políticos y empresarios peruanos</h6>
+                <h1 class="text-center f-exp" style="margin-top: 80px"><b>Expediente Lava Jato en Perú</b></h1>
             </div>
         </div>
     </div>
 </section>
-<section id="ninth-section">
+<section id="ninth-w">
     <div class="container">
         <div class="row">
             <div class="col-md-12 titles-convoca">
                 <a href="http://investigalavajato.convoca.pe/" class="link-memorias">
-                    <img class="div-img-responsive" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg">
+                    Investiga Lava Jato" es un proyecto colaborativo de veinte periodistas de América Latina y África para investigar el caso de corrupción más importante en los últimos tiempos.
+                    <img class="div-img-responsiver" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg">
+                    <br><br>
                 </a>
-            </div>
-            <div class="texto-tit" style="margin-top:400px;margin-left:5%;margin-right:15%;">
-              <h6 class="text-center" style="color:#fff;">"Investiga Lava Jato" es un proyecto colaborativo de veinte periodistas de América Latina y África para investigar el caso de corrupción más importante en los últimos tiempos.</h6>
             </div>
         </div>
     </div>
 </section>
-<section id="ninth-section" style="margin-bottom:80px;">
+
+<section id="ninth-sectio" style="margin-bottom:80px;">
     <div class="container">
         <div class="row">
             <div class="col-md-12 titles-convoca">
                 <a href="http://memoriasdelacorrupcion.convoca.pe/archivorecuperado/" class="link-memorias">
                     Conoce a los principales investigados por corrupción en el Perú. Explora aquí
-                    <img class="div-img-responsive" src="http://memoriasdelacorrupcion.convoca.pe/img/reportajes/nota3/portada1.jpg">
+                    <img class="div-img-responsiver" src="http://memoriasdelacorrupcion.convoca.pe/img/reportajes/nota3/portada1.jpg">
                 </a>
             </div>
         </div>
@@ -827,7 +797,7 @@ Programa #CaféConvoca sobre el caso Kuczynski</h1></a>
     <div class="container footer-container">
         <div class="row">
             <div class="col-md-2 col-xs-12" style="margin-top:20px;">
-                <img class="div-img-responsive" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
+                <img width="175" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
                 <p class="text-footer">
                     Convoca © 2017 Todos los derechos reservados
                 </p>
@@ -839,19 +809,22 @@ Programa #CaféConvoca sobre el caso Kuczynski</h1></a>
                     Reporteros: Raquel Tineo y Piero Alonso Angulo.<br>
                     Vídeo principal: Joseph Patiño.<br>
                     Desarrollo web: Benji Santos, Anthony Atauqui. <br>
-                    Búsqueda de información: Marisela Campos, Brenda Veracruz y Patrick Valentín.
+                    Búsqueda de información: Marisela Campos, Brenda Veracruz y Patrick Valentín. <br>
+                    Foto portada: Diario La República
                     <br><br>
 
                     Si tienes alguna denuncia o quieres contactarte con nosotros búscanos en info@convoca.pe
                 </p>
             </div>
-            <div class="col-md-4 col-xs-12">
-                <p style="margin-top:20px;font-style:italic">Este especial forma parte del proyecto 'Investiga Lava Jato', en el que participa Convoca.pe junto a 20 periodistas
+            <div class="col-md-4 col-xs-12" style="text-align: center">
+                <p style="margin-top:20px;font-style:italic; font-size: 11px">Este especial forma parte del proyecto 'Investiga Lava Jato', en el que participa Convoca.pe junto a 20 periodistas
                   de diversos medios y organizaciones de Latinoamérica y África. Visita la plataforma <a href="http://investigalavajato.convoca.pe/" target="_blank">aquí.</a> </p>
+                <p style="font-size: 11px;">Con el apoyo de:</p>
+                <img height="100" width="240" src="imagen/logo_open.jpg">
             </div>
 
             <div class="col-md-3 col-xs-12 titles-convoca">
-                <p>
+                <p style="font-size: 11px">
                     Convoca es miembro de:
                 </p>
                 <img class="icons-partner-two" src="http://paradisepapers.convoca.pe/images/logo-global.jpg">

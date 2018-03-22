@@ -55,6 +55,14 @@
     backface-visibility: hidden;
 }
 
+.div-img-responsiver {
+    text-align: center;
+    width: 100%;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    height: 580px;
+}
+
 .margin-div-row {
     margin-top: 20px;
 }
@@ -203,6 +211,17 @@ footer {
     video {
         height: 220px;
     }
+    .f-exp {
+        font-size: 26px;
+        margin-top: 48px !important;
+        padding: 20px;
+    }
+    .banner img, .div-img-responsiver {
+        height: 220px;
+    }
+    .texto-tit {
+        margin-left: 0px;
+    }
     .none-display {
         display: block;
     }
@@ -248,6 +267,17 @@ footer {
 
 @media (max-width: 767px) {
     video {
+        height: 220px;
+    }
+    .f-exp {
+        font-size: 26px;
+        margin-top: 48px !important;
+        padding: 20px;
+    }
+    .texto-tit {
+        margin-left: 0px;
+    }
+    .banner img, .div-img-responsiver {
         height: 220px;
     }
     .none-display {
