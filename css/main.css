@@ -20,6 +20,9 @@
   margin-top: 50px;
   margin-left: 23%;
 }
+.imgmob{
+  display: none !important;
+}
 .texto-tit h1{
   color: #B40404;
 }
@@ -53,6 +56,14 @@
     width: 100%;
     transition: .5s ease;
     backface-visibility: hidden;
+}
+
+.div-img-responsiver {
+    text-align: center;
+    width: 100%;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    height: 580px;
 }
 
 .margin-div-row {
@@ -203,6 +214,17 @@ footer {
     video {
         height: 220px;
     }
+    .f-exp {
+        font-size: 26px;
+        margin-top: 48px !important;
+        padding: 20px;
+    }
+    .banner img, .div-img-responsiver {
+        height: 220px;
+    }
+    .texto-tit {
+        margin-left: 0px;
+    }
     .none-display {
         display: block;
     }
@@ -211,6 +233,12 @@ footer {
     }
     .img-delete {
         width: 100%;
+    }
+    .imgweb{
+      display: none !important;
+    }
+    .imgmob{
+      display: block !important;
     }
     .footer-container {
         text-align: center;
@@ -250,6 +278,17 @@ footer {
     video {
         height: 220px;
     }
+    .f-exp {
+        font-size: 26px;
+        margin-top: 48px !important;
+        padding: 20px;
+    }
+    .texto-tit {
+        margin-left: 0px;
+    }
+    .banner img, .div-img-responsiver {
+        height: 220px;
+    }
     .none-display {
         display: block;
     }
@@ -259,6 +298,12 @@ footer {
     .navbar-brand, .icons-convoca {
         padding-left: 0px;
         padding-right: 0px;
+    }
+    .imgweb{
+      display: none !important;
+    }
+    .imgmob{
+      display: block !important;
     }
     .footer-container {
         text-align: center;
