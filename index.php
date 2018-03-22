@@ -321,111 +321,95 @@
         <div class="row separator-bottom">
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
-                    Pablo Atúncar Cama
+                    Bienvenido Ramírez y Moisés Mamani (20-03-2018)
                 </h4>
                 <p>
-                    "Fue un pequeño almuerzo y donde él (general Nicolás Hermoza Ríos) dijo que teníamos el
-                    respaldo y que se sentía contento porque nosotros pertenecíamos a la élite del Ejército y
-                    que esto era de conocimiento del más alto nivel. Él como Comandante General y como jefe del
-                    Comando Conjunto de las Fuerzas Armadas, sobre él está el ministro de Defensa, sobre él ¿quién más?;
-                    sigue el presidente".
+                    El congresista Bienvenido Ramírez aseguró que se le concedió la dirección de seis instituciones
+                    públicas por medio de las direcciones regionales. Además, confirmó que su autoridad regional fue
+                    otorgada supuestamente en un almuerzo con el expresidente PPK, así menciona como ejemplo una inauguración
+                    en la que asistió el expresidente en Tumbes. Por otro lado, recomienda que la asistencia al proceso
+                    de vacancia no es necesaria y sugiere que se ausenten. Benavides también comentó cómo se repartían las
+                    oficinas y cargos de una región en caso ésta estuviese representada por dos congresistas como el caso de
+                    Lambayeque por Marvín Mendoza y Clemente Flores.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <iframe class="video-youtube" src="https://www.youtube.com/embed/OTrr206KiFA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/TL9XkCeWn0k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
-                    Julio Chuqui Aguirre
+                    Alberto Borea y Moisés Mamani (19-03-2018)
                 </h4>
                 <p>
-                    "Martin Rivas (jefe del grupo Colina) decía: 'tenemos luz verde de parte del Chino'".
-                    <br><br>
-                    "(Wilmer) Yarlequé (ex agente del grupo Colina) estaba rematando y yo lo jalo
-                    para que salga, y en ese momento sale el niño y lo elimina al niño".
+                    Alberto Borea, el abogado del expresidente Pedro Pablo Kuczynski, compartió con el congresista Moisés
+                    Mamani el número telefónico  del ministro de Transportes y Comunicaciones Bruno Giuffra para que obtenga
+                    presuntas obras de la región Puno.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <audio controls>
-                    <source src="horse.ogg" type="audio/ogg">
-                    <source src="audio/colina_chuqui.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <img class="div-img-responsive img-hover img-audio" src="imagen/chuqui_aguirre.jpg">
+                <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/P3ALa5gx_Os?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         <div class="row separator-bottom">
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
-                    Isaac Paquiyauri Huaytalla
+                    Kenji Fujimori, Alexei Toledo, Gabriel Bocangel y Moisés Mamani (15-03-2018)
                 </h4>
                 <p>
-                    "Llega un momento en que (Santiago) Martin Rivas expresó lo siguiente, y esto no es mentira
-                    porque lo escuchó todo el destacamento que ha estado presente, dijo bien claro que el presidente
-                    Alberto Fujimori se sentía desconcertado por la muerte de este niño (en Barrios Altos)"
+                    Kenji Fujimori, Alexei Toledo y Moisés Mamani negocian las vacancias por obras y coordinan una presunta
+                    reunión para concluir este negocio. Guillermo Bocángel explica las presuntas reuniones con la vicepresidenta
+                    Mercedes Araóz en Palacio de Gobierno al fujimorista Mamani. Mientras Kenji y Bocángel tratan de convencer
+                    al congresista Mamani para la no vacancia contra PPK, incluso debaten el tema de los proyectos impuestos en
+                    el Congreso. Por otro lado, Bocángel cuenta los votos de congresistas que votaría en contra de la vacancia
+                    presidencial del diciembre pasado. El congresista Mamani expresa su miedo de ser perseguido por la Fiscalía.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <audio controls>
-                    <source src="horse.ogg" type="audio/ogg">
-                    <source src="audio/colina_paquiyauri.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <img class="div-img-responsive img-hover img-audio" src="imagen/isaac_paquiyauri.jpg">
+
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
-                    Jorge Ortíz Mantas
+                    Fredy Aragón y Moisés Mamani (17-03-2018) Audio
                 </h4>
                 <p>
-                    "A Jesús Sosa (ex agente del Grupo Colina) yo lo vi disparar al profesor
-                    (Hugo) Muñoz; a (Julio) Chuqui, a otro alumno"
+                    El exfuncionario de Sucamec, Fredy Aragón Valdez le explicó al congresista Moisés Mamani los pasos de
+                    cómo beneficiarse por medio de una obra. Se relacionaría con el alcalde provincial de la región, luego
+                    identificaría el proyecto de mayor costo, y finalmente  tendría que conversar con el Poder Ejecutivo.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <audio controls>
-                    <source src="horse.ogg" type="audio/ogg">
-                    <source src="audio/colina_jorge_ortiz.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <img class="div-img-responsive img-hover img-audio" src="imagen/jorge_ortiz.jpg">
+                <iframe class="video-youtube" src="https://www.youtube.com/embed/ItkSWbOxjNY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         <div class="row separator-bottom">
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
-                    Fernando Lecca Esquén
+                    Fredy Aragón y Moisés Mamani (17-03-2018) Video
                 </h4>
                 <p>
-                    "Ingreso yo al Jirón Huanta (Barrios Altos) me pongo mi pasamontaña, agarro un armamento y
-                    a la hora de ingresar escucho un tiro y el mayor (Santiago) Martin Rivas da la orden de
-                    disparar y cumplo la orden y disparo".
+                    El exfuncionario de Sucamec, Fredy Aragón Valdez le comentó al congresista Moisés Mamani que todos
+                    ganan económicamente cuando se trata de la aprobación de una obra.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <audio controls>
-                    <source src="horse.ogg" type="audio/ogg">
-                    <source src="audio/colina_fernando_lecca.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <img class="div-img-responsive img-hover img-audio" src="imagen/lecc_esquen.jpg">
+                <iframe class="video-youtube" src="https://www.youtube.com/embed/UUADJ-70L-Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
-                    Pedro Suppo Sánchez
+                    Bruno Giuffra y Moisés Mamani
                 </h4>
                 <p>
-                    "Llevamos pico y lampa, cal también con la finalidad de que se hace el hueco, se echa a
-                    la víctima, se le echa la cal, encima se le echa determinada cantidad de piedras y después la tierra".
+                    El portavoz fujimorista Daniel Salaverry compartió hoy tres nuevos audios relacionados a una conversación
+                    entre el ministro de Transportes y Comunicaciones, Bruno Giuffra y el congresista de Fuerza Popular, Moisés
+                    Mamani, en el que ambos coordinan una reunión y Giuffra le pide a Mamani no contestarle el teléfono a Salaverry:
+                    "¿Para qué le vas a contestar? Tú dile yo tengo mi conciencia y en mi pueblo quieren otra cosa. Dile 'mi pueblo
+                    no quiere vacancia'. Ni abras la boca conmigo. Se cae todo". Luego, el titular del MTC insiste y remarca que ya
+                    estaría "asegurado" lo presuntamente pactado. En el tercer audio, tanto el ministro como el congresista coordinan
+                    y dan detalles de una reunión que habría tenido lugar en la casa del presidente PPK.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-                <audio controls>
-                    <source src="horse.ogg" type="audio/ogg">
-                    <source src="audio/colina_suppoi.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-                <img class="div-img-responsive img-hover img-audio" src="imagen/suppo.jpg">
+
             </div>
         </div>
     </div>
