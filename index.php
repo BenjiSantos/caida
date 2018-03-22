@@ -25,22 +25,22 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-        <meta name="keywords" content="ppk fujimori"/>
-        <meta name="description" content="Encuentra en el siguiente especial de Convoca.pe, reportajes, podcasts, fotografías sobre los sucesos relacionados al indulto de Alberto Fujimori."/>
+        <meta name="keywords" content="La caída de Kuczynski"/>
+        <meta name="description" content="La caída de del Presidente: Conoce cómo fueron los últimos días de PPK tras el segundo intento de vacancia y los #Kenjivideos"/>
 
-        <meta property="og:site_name" content="http://memoriasdelacorrupcion.convoca.pe/sombras-del-indulto/"/>
-        <meta property="og:title" content="Sombras del indulto"/>
-        <meta property="og:description" content="Encuentra en el siguiente especial de Convoca.pe, reportajes, podcasts, fotografías sobre los sucesos relacionados al indulto de Alberto Fujimori"/>
+        <meta property="og:site_name" content="http://investigalavajato.convoca.pe/lacaidadekuczynski/"/>
+        <meta property="og:title" content="La caída de Kuczynski"/>
+        <meta property="og:description" content="La caída de del Presidente: Conoce cómo fueron los últimos días de PPK tras el segundo intento de vacancia y los #Kenjivideos"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:url" content="http://memoriasdelacorrupcion.convoca.pe/sombras-del-indulto/"/>
-        <meta property="og:image" content="http://memoriasdelacorrupcion.convoca.pe/sombras-del-indulto/imagen/final4fuji.jpg"/>
+        <meta property="og:url" content="http://investigalavajato.convoca.pe/lacaidadekuczynski"/>
+        <meta property="og:image" content="http://investigalavajato.convoca.pe/lacaidadekuczynski/imagen/share.jpeg"/>
 
         <link rel="stylesheet" href="node_modules/animate.css/animate.css">
         <script src="node_modules/wowjs/dist/wow.min.js"></script>
         <script>
             new WOW().init();
         </script>
-        <title>Convoca.pe - Sombras del Indulto</title>
+        <title>Convoca | La caída de Kuczynski</title>
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="canonical" href="http://www.convoca.pe/">
@@ -67,7 +67,7 @@
             <li style="display: inline; text-align: right;"><a class="icon-sus navbar-brand nav-convoca-items" href="https://docs.google.com/forms/d/e/1FAIpQLScIbS5f6rKV95YuypcDnpPDQUZ4UwL8o8WN-bkT5mx0AGUslQ/viewform">Suscríbete</a></li>
             <li style="display: inline"><a href="#first-section"><i class="fa fa-home icons-convoca" aria-hidden="true"></i></a></li>
             <li style="display: inline"><a href="javascript:var dir=window.document.URL;var tit=window.document.title;var tit2=encodeURIComponent(tit);var dir2= encodeURIComponent(dir);window.open('http://www.facebook.com/share.php?u='+dir2+'&amp;t='+tit2+'','ventana','width=600,height=400,left=50,top=50,toolbar=yes');void 0"> <i class="fa fa-facebook icons-convoca" aria-hidden="true"></i></a></li>
-            <li style="display: inline"><a href="javascript:var dir=window.document.URL;var tit=window.document.title;var tit2=encodeURIComponent(tit);window.open('http://twitter.com/?status='+tit2+'%20'+dir+'','ventana','width=600,height=400,left=50,top=50,toolbar=yes');void 0"><i class="fa fa-twitter icons-convoca" aria-hidden="true"></i></a></li>
+            <li style="display: inline"><a href="javascript:var dir=window.document.URL;var tit='Conoce cómo fueron los últimos días de PPK en la Presidencia de Perú';var tit2=encodeURIComponent(tit);window.open('http://twitter.com/?status='+tit2+'%20'+dir+'','ventana','width=600,height=400,left=50,top=50,toolbar=yes');void 0"><i class="fa fa-twitter icons-convoca" aria-hidden="true"></i></a></li>
         </ul>
     </nav>
 </header>
@@ -177,9 +177,6 @@
                 </p>
             </div>
         </div>
-
-<<<<<<< HEAD
-=======
         <!-- Text and image 5 -->
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
@@ -227,7 +224,6 @@
                 <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/aragon_fin.png">
             </div>
         </div>
->>>>>>> 2246c412dc67704c14e8b314b950b50c4b79137b
     </div>
 </section>
 <section id="fourth-section">
@@ -422,6 +418,33 @@
             </div>
         </div>
     </div>
+</section>
+<section>
+  <div class="container">
+      <a style="color: black; text-decoration: none;" href="http://convoca.pe/convoca-radio/avelino-guillen-congresistas-de-los-kenjivideos-incurrieron-en-dos-delitos" target="_blank"><h1 class="titles-convoca">Avelino Guillén: Congresistas de los ‘KenjiVídeos’ incurrieron en delitos
+Programa #CaféConvoca sobre el caso Kuczynski</h1></a>
+      <h6 class="titles-convoca">Así lo aseguró el exfiscal superior, durante la emisión del primer programa radial de Convoca, en respuesta a la crisis política que enfrenta el Perú y que terminó con la renuncia del mandatario Pedro Pablo Kuczynski</h6>
+      <br>
+      <div class="row">
+          <!--
+          <div class="col-md-6">
+              <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
+          </div>
+          <div class="col-md-6">
+              <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
+          </div>
+          <div class="col-md-6">
+              <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
+          </div>
+          <div class="col-md-6">
+              <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
+          </div> -->
+          <div class="col-md-12">
+              <img style="width: 100%" src="imagen/fotoguillen.jpeg">
+          </div>
+      </div>
+
+  </div>
 </section>
 <section id="ninth-section">
     <div class="container">
@@ -808,7 +831,7 @@
 <footer>
     <div class="container footer-container">
         <div class="row">
-            <div class="col-md-2 col-xs-12">
+            <div class="col-md-2 col-xs-12" style="margin-top:20px;">
                 <img class="div-img-responsive" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
                 <p class="text-footer">
                     Convoca © 2017 Todos los derechos reservados
@@ -816,30 +839,22 @@
             </div>
             <div class="col-md-3 col-xd-12">
                 <p class="text-footer">
-                    Responsable del proyecto: Milagros Salazar.
-                    Reporteros: Óscar Libón, Karla Velezmoro, Aramís Castro, Gonzalo Torrico.
-                    Vídeo principal: Raquel Galindo.
-                    Desarrollo web: Benji Santos. 
+                    Responsable del proyecto: Milagros Salazar.<br>
+                    Editores: Óscar Libón, Karla Velezmoro y Milagros Salazar.<br>
+                    Reporteros: Raquel Tineo y Piero Alonso Angulo.<br>
+                    Vídeo principal: Joseph Patiño.<br>
+                    Desarrollo web: Benji Santos, Anthony Atauqui. <br>
+                    Búsqueda de información: Marisela Campos, Brenda Veracruz y Patrick Valentín.
                     <br><br>
-                    Si tienes alguna denuncia o quieres contactarte
-                    con nosotros búscanos en info@convoca.pe
+
+                    Si tienes alguna denuncia o quieres contactarte con nosotros búscanos en info@convoca.pe
                 </p>
             </div>
-            <div class="col-md-2 col-xs-12">
-                <ul class="links-footer">
-                    <li><a href="http://convoca.pe/investigaciones">Investigaciones</a></li>
-                    <li><a href="http://convoca.pe/agenda-propia">Agenda propia</a></li>
-                    <li><a href="http://convoca.pe/mapea">Apps</a></li>
-                    <li><a href="http://convoca.pe/opiniones">Opinión</a></li>
-                    <li><a href="http://convoca.pe/convoca-radio">Convoca Radio</a></li>
-                </ul>
+            <div class="col-md-4 col-xs-12">
+                <p style="margin-top:20px;font-style:italic">Este especial forma parte del proyecto 'Investiga Lava Jato', en el que participa Convoca.pe junto a 20 periodistas
+                  de diversos medios y organizaciones de Latinoamérica y África. Visita la plataforma <a href="http://investigalavajato.convoca.pe/" target="_blank">aquí.</a> </p>
             </div>
-            <div class="col-md-2 col-xs-12">
-                <p class="titles-convoca">
-                    Este proyecto se desarrolla con el apoyo de:<br><br>
-                </p>
-                <img class="icons-partners" src="http://memoriasdelacorrupcion.convoca.pe/public/img/ned_logo.png" width="150" height="50">
-            </div>
+
             <div class="col-md-3 col-xs-12 titles-convoca">
                 <p>
                     Convoca es miembro de:
