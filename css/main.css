@@ -1,5 +1,7 @@
 .nav-convoca {
     background: black;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 .navbar-brand, .icons-convoca {
@@ -175,6 +177,9 @@ footer {
 .icons-partner-two {
     width: 160px;
 }
+.ul-convoca {
+    margin-bottom: 0rem !important;
+}
 
 .title-link-short {
     font-size: 15px;
@@ -261,9 +266,10 @@ footer {
     }
     .ul-convoca {
         width: 65%;
+        margin-bottom: 0rem !important;
     }
     .logo-convoca {
-        width: 35%;
+        width: 100%;
     }
     .navbar-brand, .icons-convoca {
         padding-left: 0px;
@@ -272,6 +278,10 @@ footer {
     .icon-sus {
         font-size: 12px;
     }
+    .nav-convoca > a{
+      width: 35%;
+    }
+
 }
 
 @media (max-width: 767px) {
@@ -282,6 +292,9 @@ footer {
         font-size: 26px;
         margin-top: 48px !important;
         padding: 20px;
+    }
+    .nav-convoca > a{
+      width: 35%;
     }
     .texto-tit {
         margin-left: 0px;
@@ -309,7 +322,7 @@ footer {
         text-align: center;
     }
     .logo-convoca {
-        width: 45%;
+        width: 100%;
     }
     .nav-convoca-items {
         width: 48%;
@@ -334,10 +347,6 @@ footer {
     }
     .ul-convoca {
         width: 65%;
-        padding-top: 15px;
-    }
-    .logo-convoca {
-        width: 35%;
     }
     .icon-sus {
         font-size: 12px;
