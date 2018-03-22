@@ -146,6 +146,7 @@ footer {
 
 .text-audio {
     font-size: 14px;
+    margin-top: 60px;
 }
 
 .separator-bottom {
@@ -270,6 +271,12 @@ footer {
     }
     .links-footer {
         padding: 0px;
+    }
+    .sli-mob{
+      display: block !important;
+    }
+    .sli-web{
+      display: none;
     }
     .img-delete {
         width: 100%;

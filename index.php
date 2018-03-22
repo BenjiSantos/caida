@@ -92,42 +92,16 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="titles-convoca sombra">La caída del Presidente</h1>
+                <h6 class="titles-convoca">Por Convoca | Miércoles, 21 de marzo de 2018</h6>
+                <br>
                 <p>
-                    El indulto al exgobernante Alberto Fujimori, condenado a 25 años de prisión por
-                    crímenes contra los derechos humanos y corrupción, ha sido un tema que ha dividido a la opinión pública
-                    peruana en los últimos años. Desde que fue extraditado de Chile en 2007, a donde llegó luego de
-                    su huida al Japón, su posible liberación mediante una gracia presidencial fue un asunto recurrente
-                    cada cierto tiempo. <br><br>
-                    Entre idas y vueltas en tres gobiernos sucesivos, la ‘papa caliente’ llegó a Pedro Pablo Kuczynski,
-                    que había ganado la presidencia con el apoyo del voto antifujimorista. Uno de sus gestos de campaña,
-                    en efecto, fue la firma de un compromiso con los familiares de las víctimas de delitos de lesa humanidad,
-                    entre ellas, las de Fujimori y el Grupo Colina.
-                    Con este acto, PPK se obligó a cumplir “las sentencias y las recomendaciones de los sistemas internacionales
-                    de protección de los derechos humanos”.
-                    <a id="intro-buttom" class="show-more-links">Ver más</a>
+                    A poco más de un año y siete meses en el cargo, Pedro Pablo Kuczynski renunció esta tarde a la Presidencia del Perú a
+                    través de un Mensaje a Nación grabado durante la sesión de hoy del Consejo de Ministros,
+                    luego de la crisis desatada por los denominados 'Kenjivideos', difundidos ayer por Fuerza Popular en las que se
+                    dejaba entrever una presunta compra de votos a cambio de obras a solo dos días de debatirse la vacancia del
+                    Jefe de Estado en el Pleno del Congreso de la República.
+                    <a href="http://convoca.pe/agenda-propia/kuczynski-renuncio-la-presidencia-tras-crisis-por-revelacion-de-kenjivideos" class="show-more-links" target="_blank">Ver más</a>
                     <br>
-                    <p class="hide-paragraph" id="intro-paragraph">Pero la política pronto lo hizo cambiar de parecer. A pesar de haber negado la posibilidad de un
-                    indulto sin las condiciones establecidas o de proponer una norma general de arresto domiciliario para
-                    reos ancianos, en el último año empezó a declarar en medios internacionales con una postura cada vez
-                    más favorable al perdón del exmandatario. La tensión entre su gobierno y el parlamento, de mayoría
-                    fujimorista, escalaba día a día con las censuras de sus ministros y las recurrentes citaciones a
-                    la Comisión Lava Jato.<br><br>
-                    El momento crítico llegó el 21 de diciembre último, cuando se salvó de ser vacado de su cargo por
-                    sus supuestos vínculos con Odebrecht. La bancada del partido fujimorista Fuerza Popular fue la más
-                    entusiasta con su destitución y por poco la consigue sino fuera por el viraje sorpresivo de 10 de
-                    sus parlamentarios que, comandados por Kenji Fujimori, decidieron abstenerse luego de recibir llamadas
-                    de su propio líder histórico desde la prisión. <br><br>
-                    Tres días después, el actual presidente de la República decidió otorgarle el indulto y el derecho de
-                    gracia en medio de especulaciones de haber negociado los votos. Así, Fujimori no solo fue perdonado por
-                    los crímenes condenados: también se le sustrajo de los procesos penales vigentes, como el seguido por
-                    la masacre de seis campesinos en Pativilca, por el que el Ministerio Público ya había pedido a mediados
-                    de año una nueva condena por 25 años por asesinato. <br><br>
-                    Por lo pronto, la Corte Interamericana de Derechos Humanos realizará el 2 de febrero una audiencia
-                    sobre los casos de las matanzas de Barrios Altos y La Cantuta a la luz del indulto. Se espera que se
-                    pronuncie 30 días después. <br><br>
-                    Encuentra en el siguiente especial de Convoca.pe, reportajes, podcasts, fotografías sobre los sucesos
-                    relacionados al indulto de Alberto Fujimori, información en diferentes formatos que será actualizada con regularidad.
-                    </p>
                 </p>
             </div>
         </div>
@@ -144,54 +118,31 @@
         <!-- Text and image 1 -->
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
-                <h6>Allanamiento a casa de Trinidad Becerra, esposa de Vladimiro Montesinos</h6>
+                <h6>El inicio de la crisis de PPK</h6>
                 <p>
-                    En el fallo condenatorio, el primero contra el expresidente peruano, se menciona que “(…)
-                    Fujimori tenía pleno conocimiento de la ilicitud de su conducta, pero no se amilanó ni
-                    se desistió, sino que más bien lo realizó con prontitud y esmero.
-                    <a id="firts-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="first-paragraph">
-                    En diciembre de 2007, Alberto Fujimori recibió una condena de seis años de prisión
-                    efectiva por el delito de usurpación de funciones. En la sentencia se le halló responsable
-                    de ordenar a un militar que suplantó a un fiscal para allanar la casa de su socio Montesinos
-                    para desaparecer los llamados ‘vladivideos’, que evidenciaban pagos de la corrupción
-                    durante su gobierno.
-                    En abril de 2008, la Segunda Sala Especial de la Corte Suprema confirmó por unanimidad la
-                    condena.
-                    Descarga la confirmación de la sentencia
-                    <a class="show-more-links" href="https://www.scribd.com/document/368045530/Trinidad-Becerra" target="_blank">aquí</a> .
-                    </p>
+                    Con una votación agónica en el Congreso, Kuczynski logró permanecer en el cargo en medio del escándalo
+                    Lava Jato y gracias a la ayuda de congresistas agrupados por Kenji Fujimori, que se abstuvieron de votar
+                    a favor de la vacancia presidencial.
+                    <a href="http://convoca.pe/especiales/crisis-presidencial/" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/1trinidad.jpg">
+                <img class="img-redondas" src="http://convoca.pe/especiales/crisis-presidencial/img/ppkportada.png">
             </div>
         </div>
 
         <!-- Text and image 2-->
         <div class="row wow fadeInRightBig margin-div-row">
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/2cantuta.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/ultimoppk_0.jpg?itok=T66wQClI">
             </div>
             <div class="col-md-10 col-xs-12">
-                <h6>Casos La Cantuta, Barrios Altos y detenciones de Gustavo Gorriti y Samuel Dyer</h6>
+                <h6>Revelación de Odebrecht sobre conferencia de PPK</h6>
                 <p>
-                    En la resolución, de más de 700 páginas, se indica que “(…) frente a cada denuncia
-                    pública, revelación periodística o actividad de investigación que sugería razonablemente
-                    una intervención delictiva de agentes y personajes de inteligencia en los hechos de
-                    Barrios Altos y La Cantuta, la respuesta desde el Estado, bajo la conducción del Servicio
-                    de Inteligencia Nacional (SIN), fue un elaborado mecanismo de encubrimiento que
-                    incluyó la negación de las fuentes, el descrédito de los denunciantes, la persecución de
-                    los disidentes (…)”.
-                    <a id="second-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="second-paragraph">
-                    El 7 de abril de 2009, Alberto Fujimori fue condenado a 25 años de prisión por los delitos
-                    de homicidio calificado con alevosía, por las matanzas de Barrios Altos y La Cantuta.
-                    También se incluyeron los casos de los secuestros del periodista Gustavo Gorriti y del
-                    empresario Samuel Dyer. Esta fue la condena de mayor tiempo que se ordenó contra el ex
-                    mandatario.
-                    Descarga la resolución <a href="https://issuu.com/convocape/docs/cantuta_barrios_altos" target="_blank">aquí.</a>
-                    </p>
+                    Marcelo Odebrecht aseguró en el interrogatorio en Curitiba de noviembre último que Pedro Pablo Kuczynski,
+                    luego de ser funcionario en el gobierno de Alejandro Toledo y antes de su elección como Presidente,
+                    fue contratado por la empresa brasileña Odebrecht para dar una conferencia en Lima.
+                    <a href="http://convoca.pe/agenda-propia/la-conferencia-de-ppk-que-confeso-odebrecht" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
         </div>
@@ -200,85 +151,33 @@
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>Los US$ 15 millones a Montesinos</h6>
-                    En la resolución se indica que “Alberto Fujimori (…) ideó y ejecutó acciones ilícitas
-                    propias de un poder corrupto, conjuntamente con el ex asesor del Servicio de
-                    Inteligencia Nacional (…) Vladimiro Montesinos Torres y sus exministros Carlos Boloña,
-                    Carlos Bergamino Cruz y Federico Salas Guevara Schultz, con el fin de disponer y
-                    apropiarse del dinero del Estado (…).
-                    <a id="third-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="third-paragraph">
-                        El 20 de julio del 2009, Alberto Fujimori fue condenado a 7 años y medio de prisión por el
-                        delito de peculado doloso y falsedad ideológica, luego de que se comprobara el pago de
-                        15 millones de dólares a Vladimiro Montesinos por una supuesta compensación de tiempo
-                        de servicios (CTS). Esta representó la tercera sentencia contra el exmandatario peruano.
-                        Descarga la sentencia <a href="https://es.scribd.com/document/368045476/15-millones-de-dolares-a-Montesinos" target="_blank">aquí.</a>
-                    </p>
+                    <h6>Confesiones de Barata en Sao Paulo</h6>
+                Jorge Barata, ex Superintendente de Odebrecht en Perú, señaló que entregó 300 mil dólares para la campaña
+                electoral de 2011, año que postuló Kuczynski a la Presidencia del Perú al frente de la Alianza por el Gran
+                Cambio. El exdirectivo de Odebrecht relató que la intermediaria fue la empresaria Susana de la Puente,
+                embajadora de Perú en Reino Unido.
+                    <a href="http://convoca.pe/agenda-propia/caso-odebrecht-barata-revela-modus-operandi-de-aportes-campana-de-keiko-fujimori" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/vladimiro.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/portada-3.jpg?itok=BQsojQgJ">
             </div>
         </div>
 
         <!-- Text and image 4-->
         <div class="row wow fadeInRightBig margin-div-row">
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/5congreso.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/000467890w.jpg?itok=C_FW2BKg">
             </div>
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>Caso congresistas tránsfugas</h6>
-                    En la sentencia se menciona que “(…) Alberto Fujimori Fujimori, como no obtuvo la
-                    mayoría parlamentaria en el proceso electoral del 9 de abril de 2000, encomendó a su
-                    exasesor Vladimiro Montesinos poner en marcha un conjunto de acciones y estrategias
-                    destinadas a conseguirla a como diera lugar (…)”.
-                    Se agrega: “(…) La entrega de dinero, en algunos casos, tuvo el propósito de que ciertos
-                    parlamentarios abandonen sus bancadas de origen por las que fueron elegidos, y se
-                    integren a las filas de la bancada oficialista del régimen presidido por Alberto Fujimori, y
-                    actúen conforme a las instrucciones que se les impartían (…)”.
-                    <a id="fourth-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="fourth-paragraph">
-                        El 30 de setiembre del 2009, Fujimori fue condenado por los pagos ilegales a los
-                        congresistas tránsfugas, por el espionaje a políticos y periodistas, y por la compra de Cable
-                        Canal de Noticias y de la línea editorial del diario “Expreso”. Fue la cuarta sentencia
-                        impuesta al exmandatario. La Sala Penal Especial de la Corte Suprema también estableció
-                        el pago de S/.27’060,216 por reparación civil por los tres casos de corrupción.
-                        La fiscalía había pedido ocho años de pena, pero se redujo a seis años de privación de la
-                        libertad. Días antes de la lectura de sentencia, Fujimori había admitido los cargos para
-                        acogerse a la “terminación anticipada” y así evitarse un largo proceso.
-
-                        Descarga la sentencia <a class="show-more-links" href="https://es.scribd.com/document/368045380/Congresistas-transfuga" target="_blank">aquí.</a>
-                    </p>
+                <h6>Se inicia nuevo proceso en el legislativo para destituir al presidente kuczynski</h6>
+                Apenas dos meses después de que PPK se salvará de la destitución en el Congreso, se volvió a presentar una moción de vacancia presidencial en su contra por "incapacidad moral", con la adhesión de 30 legisladores de distintas bancadas parlamentarias. Se estimaba que este pedido sería debatido y votado en el pleno del Legislativo el 22 de marzo, tras la presentación de Kuczynski ante la Comisión Lava Jato.
+                    <a href="http://convoca.pe/agenda-propia/se-inicia-nuevo-proceso-en-el-legislativo-para-destituir-al-presidente-kuczynski" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
         </div>
 
-        <!-- Text and image 5 -->
-        <div class="row wow fadeInLeftBig margin-div-row">
-            <div class="col-md-10 col-xs-12">
-                <p>
-                    <h6>Los diarios ‘chicha’ y compra de líneas editorial</h6>
-                    En el fallo se dio cuenta que “(…) según los hechos probados el acusado Fujimori
-                    Fujimori, se apropió de fondos públicos para asegurar su continuidad en el poder,
-                    mediante el financiamiento de los denominados &#39;diarios chicha&#39;, lo que hizo
-                    aprovechando el status que el confería el cargo de Presidente de la República en
-                    ejercicio (…)”.
-                    <a id="fifth-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="fifth-paragraph">
-                        El 8 de enero de 2015, Fujimori fue condenado por el delito de peculado por haber
-                        ordenado el desvío de S/ 122 millones de los fondos de las Fuerzas Armadas al Servicio de
-                        Inteligencia Nacional para financiar a los llamados ‘diarios chicha’. Poco más de un año
-                        después, en agosto de 2016, la Sala Permanente de la Corte Suprema, lo absolvió del
-                        delito y anuló la condena.
-                        Descarga la sentencia <a href="https://issuu.com/convocape/docs/diarios_chicha" target="_blank">aquí.</a>
-                    </p>
-                </p>
-            </div>
-            <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/3diarioschicha.jpg">
-            </div>
-        </div>
     </div>
 </section>
 <section id="fourth-section">
@@ -324,13 +223,9 @@
                     Bienvenido Ramírez y Moisés Mamani (20-03-2018)
                 </h4>
                 <p>
-                    El congresista Bienvenido Ramírez aseguró que se le concedió la dirección de seis instituciones
-                    públicas por medio de las direcciones regionales. Además, confirmó que su autoridad regional fue
-                    otorgada supuestamente en un almuerzo con el expresidente PPK, así menciona como ejemplo una inauguración
-                    en la que asistió el expresidente en Tumbes. Por otro lado, recomienda que la asistencia al proceso
-                    de vacancia no es necesaria y sugiere que se ausenten. Benavides también comentó cómo se repartían las
-                    oficinas y cargos de una región en caso ésta estuviese representada por dos congresistas como el caso de
-                    Lambayeque por Marvín Mendoza y Clemente Flores.
+                    El congresista fujimorista Bienvenido Ramírez aseguró al legislador Moisés Mamani que el gobierno
+                    de Kuczynski le permitió “poner obras” y autoridades en las direcciones regionales de su región: Tumbes.
+                    Mencionó el caso de por lo menos seis autoridades.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -341,9 +236,9 @@
                     Alberto Borea y Moisés Mamani (19-03-2018)
                 </h4>
                 <p>
-                    Alberto Borea, el abogado del expresidente Pedro Pablo Kuczynski, compartió con el congresista Moisés
-                    Mamani el número telefónico  del ministro de Transportes y Comunicaciones Bruno Giuffra para que obtenga
-                    presuntas obras de la región Puno.
+                    Alberto Borea, el abogado del expresidente Pedro Pablo Kuczynski, entregó al congresista Moisés Mamani
+                     el número telefónico del ministro de Transportes y Comunicaciones Bruno Giuffra para que presuntamente
+                     obtenga obras en su región: Puno.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -356,25 +251,23 @@
                     Kenji Fujimori, Alexei Toledo, Gabriel Bocangel y Moisés Mamani (15-03-2018)
                 </h4>
                 <p>
-                    Kenji Fujimori, Alexei Toledo y Moisés Mamani negocian las vacancias por obras y coordinan una presunta
-                    reunión para concluir este negocio. Guillermo Bocángel explica las presuntas reuniones con la vicepresidenta
-                    Mercedes Araóz en Palacio de Gobierno al fujimorista Mamani. Mientras Kenji y Bocángel tratan de convencer
-                    al congresista Mamani para la no vacancia contra PPK, incluso debaten el tema de los proyectos impuestos en
-                    el Congreso. Por otro lado, Bocángel cuenta los votos de congresistas que votaría en contra de la vacancia
-                    presidencial del diciembre pasado. El congresista Mamani expresa su miedo de ser perseguido por la Fiscalía.
+                    El legislador Kenji Fujimori, su asesor Alexei Toledo y el parlamentario Moisés Mamani negocian la vacancia
+                     presidencial de Kuczynski a cambio de obras y coordinan una reunión para concluir el negocio. Guillermo Bocángel,
+                     legislador del grupo de Kenji Fujimori, explica las presuntas reuniones con la vicepresidenta Mercedes Araóz en
+                     Palacio de Gobierno.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-
+              <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/CGryZYmzw3Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
                     Fredy Aragón y Moisés Mamani (17-03-2018) Audio
                 </h4>
                 <p>
-                    El exfuncionario de Sucamec, Fredy Aragón Valdez le explicó al congresista Moisés Mamani los pasos de
-                    cómo beneficiarse por medio de una obra. Se relacionaría con el alcalde provincial de la región, luego
-                    identificaría el proyecto de mayor costo, y finalmente  tendría que conversar con el Poder Ejecutivo.
+                    El exfuncionario de la Superintendencia Nacional de Control de Servicios de Seguridad, Armas, Municiones y
+                    Explosivos de Uso Civil (Sucamec), Fredy Aragón Valdez, le explicó al congresista fujimorista Moisés Mamani
+                     los pasos de cómo beneficiarse por medio de una obra.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -387,8 +280,8 @@
                     Fredy Aragón y Moisés Mamani (17-03-2018) Video
                 </h4>
                 <p>
-                    El exfuncionario de Sucamec, Fredy Aragón Valdez le comentó al congresista Moisés Mamani que todos
-                    ganan económicamente cuando se trata de la aprobación de una obra.
+                    El exfuncionario de Sucamec, Fredy Aragón Valdez explicó al congresista fujimorista Moisés Mamani que
+                     todos ganan económicamente cuando se trata de la aprobación de una obra.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -399,17 +292,15 @@
                     Bruno Giuffra y Moisés Mamani
                 </h4>
                 <p>
-                    El portavoz fujimorista Daniel Salaverry compartió hoy tres nuevos audios relacionados a una conversación
-                    entre el ministro de Transportes y Comunicaciones, Bruno Giuffra y el congresista de Fuerza Popular, Moisés
-                    Mamani, en el que ambos coordinan una reunión y Giuffra le pide a Mamani no contestarle el teléfono a Salaverry:
-                    "¿Para qué le vas a contestar? Tú dile yo tengo mi conciencia y en mi pueblo quieren otra cosa. Dile 'mi pueblo
-                    no quiere vacancia'. Ni abras la boca conmigo. Se cae todo". Luego, el titular del MTC insiste y remarca que ya
-                    estaría "asegurado" lo presuntamente pactado. En el tercer audio, tanto el ministro como el congresista coordinan
-                    y dan detalles de una reunión que habría tenido lugar en la casa del presidente PPK.
+                    El portavoz fujimorista Daniel Salaverry publicó el miércoles 21 de marzo tres nuevos audios relacionados
+                    a una conversación entre el ministro de Transportes y Comunicaciones, Bruno Giuffra y el congresista de
+                   Fuerza Popular, Moisés Mamani. En estas grabaciones, Giuffra le pide a Mamani no contestar el teléfono a
+                   Salaverry: "¿Para qué le vas a contestar? Tú dile yo tengo mi conciencia y en mi pueblo quieren otra cosa.
+                   Dile 'mi pueblo no quiere vacancia'. Ni abras la boca conmigo. Se cae todo", se escucha.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-
+                <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/UemQG_ZGXMA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -521,6 +412,345 @@
         </div>
     </div>
 </section>
+<div class="container title-center suscribe">
+    <div class="suscribe-inline">
+        <img class="img-suscribe" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
+    </div>
+    <div class="suscribe-inline">
+        <form id="gform" method="POST" class="pure-form pure-form-stacked"
+              action="https://script.google.com/macros/s/AKfycbzFsmEuJOx_PhkNjIbZVBZ_ZX-6ydeLrVn3JFadZ17vZTB6jSU/exec">
+            <!-- change the form action to your script url -->
+            <h4 style="color: rgb(238, 160, 49);">Suscríbete</h4>
+            <p>y sé el primero en leer nuestras investigaciones</p>
+            <fieldset style="display: none;" class="pure-group">
+                <label for="name">Name: </label>
+                <input id="name" name="name" placeholder="What your Mom calls you" />
+            </fieldset>
+
+            <fieldset style="display: none;" class="pure-group">
+                <label for="message">Message: </label>
+                <textarea id="message" name="message" rows="10"
+                          placeholder="Tell us what's on your mind..."></textarea>
+            </fieldset>
+
+            <fieldset class="pure-group dis-inline">
+                <label for="email"></label>
+                <input style="width: 225px;" id="email" name="email" type="email" value=""
+                       required placeholder="ingresa tu correo electrónico"/>
+                <span id="email-invalid" style="display:none;">Debe ser una dirección valida</span>
+            </fieldset>
+
+            <fieldset style="display: none;" class="pure-group">
+                <label for="color">Favourite Color: </label>
+                <input id="color" name="color" placeholder="green" />
+            </fieldset>
+
+            <button class="button-success pure-button button-xlarge dis-inline btn-black" style="color:#fff;background:#000;cursor:pointer;">
+                <i class="fa fa-paper-plane"></i> ENVIAR</button>
+
+        </form>
+    </div>
+    <div class="container title-center">
+        <div style="display:none;" id="thankyou_message">
+            <h4>Gracias por subscribirte, tambien puedes encontrarnos en info@convoca.pe</h4>
+        </div>
+    </div>
+    <!-- Submit the Form to Google Using "AJAX" -->
+    <script data-cfasync="false" type="text/javascript"
+            src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+    <!-- <script data-cfasync="false" type="text/javascript"
+    src="/form-submission-handler.js"></script> -->
+    <!-- END -->
+</div>
+</div>
+
+<section id="nuestros-proyectos" style="padding-bottom:40px;" class="sli-web">
+    <h2 class="title-left text-center" >Nuestros proyectos</h2>
+    <div class="container">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides-->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="carousel-item active ">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image img" src="http://memoriasdelacorrupcion.convoca.pe/img/interactivo/nota1/casos_emblematicos.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://memoriasdelacorrupcion.convoca.pe" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Memorias de la Corrupción</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image " src="http://convoca.pe/sites/default/files/styles/full_post/public/grupal-presidentes.jpg?itok=OoPqp_27" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href=" http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Expediente Lavajato</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Investiga Lavajato</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://ilusionfiscal.convoca.pe/img/header.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://ilusionfiscal.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Ilusion Fiscal</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="https://investigalavajato.convoca.pe/public/v3/assets/imgs/portada.jpg?v=1.2" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/viasobrecosto" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Vías sobre costo</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/juegosdelpoder/img/PUERTA-ABIERTA-min.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/juegosdelpoder/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Juegos del Poder</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/patrimonio-sa/img/img_congreso.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/patrimonio-sa/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Patrimonio S.A.</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/crisis-presidencial/img/ppk_uno.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/crisis-presidencial/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Crisis PPK</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/sites/default/files/styles/full_post/public/glencore_argentina_forbes_0.jpg?itok=ieOOUF9q" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/investigaciones/paradise-papers-los-negocios-de-glencore-en-argentina" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Paradise Paper</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://promesasppk.convoca.pe/img/ppk-nota.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://promesasppk.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Promesa PPK</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://tierraherida.convoca.pe/img/uca2fin.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://tierraherida.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Tierra Herida</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://excesosincastigo.convoca.pe/media/img/fondo_2.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://excesosincastigo.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Excesos sin Castigo</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/espinar/imagenes/imagen.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/espinar/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Espinar</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/AMAZONIA/imagenes/portada1.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/AMAZONIA/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Amazonía Arrasada</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/yakunija/images/box__3.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/convoca-radio/yakunija/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Yakunija</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/ninasmadres/img/portada.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/ninasmadres/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Niñas Madres</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev back-none" href="#myCarousel" data-slide="prev" style="width: 5% !important;">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next back-none" href="#myCarousel" data-slide="next" style="width: 5% !important;">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section id="nuestros-proyectos" style="padding-bottom:40px;" class="sli-mob">
+    <h2 class="title-left text-center" >Nuestros proyectos</h2>
+    <div class="container">
+        <div id="myCarouselmob" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides-->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="carousel-item active ">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image img" src="http://memoriasdelacorrupcion.convoca.pe/img/interactivo/nota1/casos_emblematicos.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://memoriasdelacorrupcion.convoca.pe" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Memorias de la Corrupción</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image " src="http://convoca.pe/sites/default/files/styles/full_post/public/grupal-presidentes.jpg?itok=OoPqp_27" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href=" http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Expediente Lavajato</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Investiga Lavajato</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://ilusionfiscal.convoca.pe/img/header.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://ilusionfiscal.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Ilusion Fiscal</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="https://investigalavajato.convoca.pe/public/v3/assets/imgs/portada.jpg?v=1.2" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/viasobrecosto" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Vías sobre costo</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/juegosdelpoder/img/PUERTA-ABIERTA-min.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/juegosdelpoder/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Juegos del Poder</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/patrimonio-sa/img/img_congreso.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/patrimonio-sa/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Patrimonio S.A.</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/crisis-presidencial/img/ppk_uno.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/crisis-presidencial/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Crisis PPK</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/sites/default/files/styles/full_post/public/glencore_argentina_forbes_0.jpg?itok=ieOOUF9q" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/investigaciones/paradise-papers-los-negocios-de-glencore-en-argentina" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Paradise Paper</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://promesasppk.convoca.pe/img/ppk-nota.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://promesasppk.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Promesa PPK</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://tierraherida.convoca.pe/img/uca2fin.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://tierraherida.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Tierra Herida</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://excesosincastigo.convoca.pe/media/img/fondo_2.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://excesosincastigo.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Excesos sin Castigo</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/espinar/imagenes/imagen.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/espinar/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Espinar</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/AMAZONIA/imagenes/portada1.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/AMAZONIA/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Amazonía Arrasada</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/yakunija/images/box__3.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/convoca-radio/yakunija/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Yakunija</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/ninasmadres/img/portada.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/ninasmadres/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Niñas Madres</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev back-none" href="#myCarouselmob" data-slide="prev" style="width: 5% !important;">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next back-none" href="#myCarouselmob" data-slide="next" style="width: 5% !important;">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+
 <footer>
     <div class="container footer-container">
         <div class="row">
