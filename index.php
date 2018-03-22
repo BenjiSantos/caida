@@ -75,12 +75,7 @@
 <section id="first-section">
     <div class="container-fluid">
         <div class="row none-display-video">
-            <video id="video" class="col-md-12" autobuffer autoplay>
-                <source src="audio/video_fujimori.mp4" type="video/mp4">
-                <source src="audio/video_fujimori.ogg" type="video/ogg">
-                <source src="audio/video_fujimori.webm" type="video/webm">
-                Your browser does not support the video tag.
-            </video>
+            <img width="1280" height="650" src="imagen/despedida_ppk.png">
         </div>
         <div class="row none-display">
             <img class="div-img-responsive img" src="imagen/final4fuji.jpg">
