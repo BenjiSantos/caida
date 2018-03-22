@@ -62,8 +62,8 @@
 </head>
 <header>
     <nav class="navbar navbar-toggleable-md navbar-light bg-faded nav-convoca">
-        <img src="http://convoca.pe/especiales/crisis-presidencial/img/Convoca%20Logo%20Blanco-01.png" class="navbar-toggler navbar-toggler-right logo-convoca" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-        <ul class="ul-convoca">
+        <a href="http://convoca.pe" target="_blank"><img src="http://convoca.pe/especiales/crisis-presidencial/img/Convoca%20Logo%20Blanco-01.png" class="navbar-toggler navbar-toggler-right logo-convoca" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation"></a>
+        <ul class="ul-convoca" style="margin-left:0;">
             <li style="display: inline; text-align: right;"><a class="icon-sus navbar-brand nav-convoca-items" href="https://docs.google.com/forms/d/e/1FAIpQLScIbS5f6rKV95YuypcDnpPDQUZ4UwL8o8WN-bkT5mx0AGUslQ/viewform">Suscríbete</a></li>
             <li style="display: inline"><a href="#first-section"><i class="fa fa-home icons-convoca" aria-hidden="true"></i></a></li>
             <li style="display: inline"><a href="javascript:var dir=window.document.URL;var tit=window.document.title;var tit2=encodeURIComponent(tit);var dir2= encodeURIComponent(dir);window.open('http://www.facebook.com/share.php?u='+dir2+'&amp;t='+tit2+'','ventana','width=600,height=400,left=50,top=50,toolbar=yes');void 0"> <i class="fa fa-facebook icons-convoca" aria-hidden="true"></i></a></li>
@@ -818,7 +818,8 @@
                     Reporteros: Raquel Tineo y Piero Alonso Angulo.<br>
                     Vídeo principal: Joseph Patiño.<br>
                     Desarrollo web: Benji Santos, Anthony Atauqui. <br>
-                    Búsqueda de información: Marisela Campos, Brenda Veracruz y Patrick Valentín. <br>
+                    Búsqueda de información: Marisela Campos, Brenda De La Cruz y Patrick Valentín. <br>
+                    Infografía: Camila Alomía<br>
                     Foto portada: Diario La República
                     <br><br>
 
