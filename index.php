@@ -75,10 +75,8 @@
 <section id="first-section">
     <div class="container-fluid">
         <div class="row none-display-video">
-            <video id="video" class="col-md-12" autobuffer autoplay>
-                <source src="audio/video_fujimori.mp4" type="video/mp4">
-                <source src="audio/video_fujimori.ogg" type="video/ogg">
-                <source src="audio/video_fujimori.webm" type="video/webm">
+            <video width="1280" height="720" id="video" class="col-md-12" autobuffer autoplay>
+                <source src="audio/video_ppk.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
