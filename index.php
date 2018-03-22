@@ -125,14 +125,14 @@
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/1trinidad.jpg">
+                <img class="img-redondas" src="http://convoca.pe/especiales/crisis-presidencial/img/ppkportada.png">
             </div>
         </div>
 
         <!-- Text and image 2-->
         <div class="row wow fadeInRightBig margin-div-row">
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/2cantuta.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/ultimoppk_0.jpg?itok=T66wQClI">
             </div>
             <div class="col-md-10 col-xs-12">
                 <h6>Revelación de Odebrecht sobre conferencia de PPK</h6>
@@ -158,14 +158,14 @@
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/vladimiro.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/portada-3.jpg?itok=BQsojQgJ">
             </div>
         </div>
 
         <!-- Text and image 4-->
         <div class="row wow fadeInRightBig margin-div-row">
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/5congreso.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/000467890w.jpg?itok=C_FW2BKg">
             </div>
             <div class="col-md-10 col-xs-12">
                 <p>
@@ -176,6 +176,8 @@
             </div>
         </div>
 
+<<<<<<< HEAD
+=======
         <!-- Text and image 5 -->
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
@@ -223,6 +225,7 @@
                 <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/aragon_fin.png">
             </div>
         </div>
+>>>>>>> 2246c412dc67704c14e8b314b950b50c4b79137b
     </div>
 </section>
 <section id="fourth-section">
@@ -234,6 +237,16 @@
             </div>
         </div>
     </div>
+</section>
+<section id="none-section">
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-md-12">
+              <a style="color: black; text-decoration: none;" href="http://www.convoca.pe/agenda-propia/kenjivideos-cambios-de-funcionarios-de-tumbes-contradicen-version-del-gobierno-y" target="_blank"><h1 class="titles-convoca">Cambios de funcionarios contradicen versión del gobierno</h1></a>
+              <h6 class="titles-convoca">Convoca.pe detectó que autoridades fueron nombradas luego que legislador fujimorista se abstuviera de votar a favor de la vacancia presidencial de Kuczynski.</h6>
+          </div>
+      </div>
+  </div>
 </section>
 <section id="fifth-section">
     <div class="container">
@@ -258,13 +271,9 @@
                     Bienvenido Ramírez y Moisés Mamani (20-03-2018)
                 </h4>
                 <p>
-                    El congresista Bienvenido Ramírez aseguró que se le concedió la dirección de seis instituciones
-                    públicas por medio de las direcciones regionales. Además, confirmó que su autoridad regional fue
-                    otorgada supuestamente en un almuerzo con el expresidente PPK, así menciona como ejemplo una inauguración
-                    en la que asistió el expresidente en Tumbes. Por otro lado, recomienda que la asistencia al proceso
-                    de vacancia no es necesaria y sugiere que se ausenten. Benavides también comentó cómo se repartían las
-                    oficinas y cargos de una región en caso ésta estuviese representada por dos congresistas como el caso de
-                    Lambayeque por Marvín Mendoza y Clemente Flores.
+                    El congresista fujimorista Bienvenido Ramírez aseguró al legislador Moisés Mamani que el gobierno
+                    de Kuczynski le permitió “poner obras” y autoridades en las direcciones regionales de su región: Tumbes.
+                    Mencionó el caso de por lo menos seis autoridades.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -275,9 +284,9 @@
                     Alberto Borea y Moisés Mamani (19-03-2018)
                 </h4>
                 <p>
-                    Alberto Borea, el abogado del expresidente Pedro Pablo Kuczynski, compartió con el congresista Moisés
-                    Mamani el número telefónico  del ministro de Transportes y Comunicaciones Bruno Giuffra para que obtenga
-                    presuntas obras de la región Puno.
+                    Alberto Borea, el abogado del expresidente Pedro Pablo Kuczynski, entregó al congresista Moisés Mamani
+                     el número telefónico del ministro de Transportes y Comunicaciones Bruno Giuffra para que presuntamente
+                     obtenga obras en su región: Puno.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -290,25 +299,23 @@
                     Kenji Fujimori, Alexei Toledo, Gabriel Bocangel y Moisés Mamani (15-03-2018)
                 </h4>
                 <p>
-                    Kenji Fujimori, Alexei Toledo y Moisés Mamani negocian las vacancias por obras y coordinan una presunta
-                    reunión para concluir este negocio. Guillermo Bocángel explica las presuntas reuniones con la vicepresidenta
-                    Mercedes Araóz en Palacio de Gobierno al fujimorista Mamani. Mientras Kenji y Bocángel tratan de convencer
-                    al congresista Mamani para la no vacancia contra PPK, incluso debaten el tema de los proyectos impuestos en
-                    el Congreso. Por otro lado, Bocángel cuenta los votos de congresistas que votaría en contra de la vacancia
-                    presidencial del diciembre pasado. El congresista Mamani expresa su miedo de ser perseguido por la Fiscalía.
+                    El legislador Kenji Fujimori, su asesor Alexei Toledo y el parlamentario Moisés Mamani negocian la vacancia
+                     presidencial de Kuczynski a cambio de obras y coordinan una reunión para concluir el negocio. Guillermo Bocángel,
+                     legislador del grupo de Kenji Fujimori, explica las presuntas reuniones con la vicepresidenta Mercedes Araóz en
+                     Palacio de Gobierno.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-
+              <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/CGryZYmzw3Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
             <div class="content-hover text-audio col-md-3">
                 <h4 class="titles-convoca">
                     Fredy Aragón y Moisés Mamani (17-03-2018) Audio
                 </h4>
                 <p>
-                    El exfuncionario de Sucamec, Fredy Aragón Valdez le explicó al congresista Moisés Mamani los pasos de
-                    cómo beneficiarse por medio de una obra. Se relacionaría con el alcalde provincial de la región, luego
-                    identificaría el proyecto de mayor costo, y finalmente  tendría que conversar con el Poder Ejecutivo.
+                    El exfuncionario de la Superintendencia Nacional de Control de Servicios de Seguridad, Armas, Municiones y
+                    Explosivos de Uso Civil (Sucamec), Fredy Aragón Valdez, le explicó al congresista fujimorista Moisés Mamani
+                     los pasos de cómo beneficiarse por medio de una obra.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -321,8 +328,8 @@
                     Fredy Aragón y Moisés Mamani (17-03-2018) Video
                 </h4>
                 <p>
-                    El exfuncionario de Sucamec, Fredy Aragón Valdez le comentó al congresista Moisés Mamani que todos
-                    ganan económicamente cuando se trata de la aprobación de una obra.
+                    El exfuncionario de Sucamec, Fredy Aragón Valdez explicó al congresista fujimorista Moisés Mamani que
+                     todos ganan económicamente cuando se trata de la aprobación de una obra.
                 </p>
             </div>
             <div class="content-hover col-md-3">
@@ -333,17 +340,15 @@
                     Bruno Giuffra y Moisés Mamani
                 </h4>
                 <p>
-                    El portavoz fujimorista Daniel Salaverry compartió hoy tres nuevos audios relacionados a una conversación
-                    entre el ministro de Transportes y Comunicaciones, Bruno Giuffra y el congresista de Fuerza Popular, Moisés
-                    Mamani, en el que ambos coordinan una reunión y Giuffra le pide a Mamani no contestarle el teléfono a Salaverry:
-                    "¿Para qué le vas a contestar? Tú dile yo tengo mi conciencia y en mi pueblo quieren otra cosa. Dile 'mi pueblo
-                    no quiere vacancia'. Ni abras la boca conmigo. Se cae todo". Luego, el titular del MTC insiste y remarca que ya
-                    estaría "asegurado" lo presuntamente pactado. En el tercer audio, tanto el ministro como el congresista coordinan
-                    y dan detalles de una reunión que habría tenido lugar en la casa del presidente PPK.
+                    El portavoz fujimorista Daniel Salaverry publicó el miércoles 21 de marzo tres nuevos audios relacionados
+                    a una conversación entre el ministro de Transportes y Comunicaciones, Bruno Giuffra y el congresista de
+                   Fuerza Popular, Moisés Mamani. En estas grabaciones, Giuffra le pide a Mamani no contestar el teléfono a
+                   Salaverry: "¿Para qué le vas a contestar? Tú dile yo tengo mi conciencia y en mi pueblo quieren otra cosa.
+                   Dile 'mi pueblo no quiere vacancia'. Ni abras la boca conmigo. Se cae todo", se escucha.
                 </p>
             </div>
             <div class="content-hover col-md-3">
-
+                <iframe class="video-youtube" width="560" height="315" src="https://www.youtube.com/embed/UemQG_ZGXMA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
     </div>
@@ -420,6 +425,37 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 titles-convoca">
+                <a href="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" class="link-memorias">
+                    <img class="div-img-responsive" src="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/img/andina.jpg">
+                </a>
+            </div>
+            <div class="texto-tit">
+              <h1 class="text-center"><b>Expediente Lava Jato en Perú</b></h1>
+            </div>
+            <div class="texto-tit" style="margin-top:400px;margin-left:5%;margin-right:15%;">
+              <h6 class="text-center" style="color:#fff;">Explora un centenar de publicaciones sobre pagos de sobornos y financiamiento de campaña de las constructoras brasileñas y sus socias peruanas a altos funcionarios, políticos y empresarios peruanos</h6>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="ninth-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 titles-convoca">
+                <a href="http://investigalavajato.convoca.pe/" class="link-memorias">
+                    <img class="div-img-responsive" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg">
+                </a>
+            </div>
+            <div class="texto-tit" style="margin-top:400px;margin-left:5%;margin-right:15%;">
+              <h6 class="text-center" style="color:#fff;">"Investiga Lava Jato" es un proyecto colaborativo de veinte periodistas de América Latina y África para investigar el caso de corrupción más importante en los últimos tiempos.</h6>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="ninth-section" style="margin-bottom:80px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 titles-convoca">
                 <a href="http://memoriasdelacorrupcion.convoca.pe/archivorecuperado/" class="link-memorias">
                     Conoce a los principales investigados por corrupción en el Perú. Explora aquí
                     <img class="div-img-responsive" src="http://memoriasdelacorrupcion.convoca.pe/img/reportajes/nota3/portada1.jpg">
@@ -428,6 +464,345 @@
         </div>
     </div>
 </section>
+<div class="container title-center suscribe">
+    <div class="suscribe-inline">
+        <img class="img-suscribe" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
+    </div>
+    <div class="suscribe-inline">
+        <form id="gform" method="POST" class="pure-form pure-form-stacked"
+              action="https://script.google.com/macros/s/AKfycbzFsmEuJOx_PhkNjIbZVBZ_ZX-6ydeLrVn3JFadZ17vZTB6jSU/exec">
+            <!-- change the form action to your script url -->
+            <h4 style="color: rgb(238, 160, 49);">Suscríbete</h4>
+            <p>y sé el primero en leer nuestras investigaciones</p>
+            <fieldset style="display: none;" class="pure-group">
+                <label for="name">Name: </label>
+                <input id="name" name="name" placeholder="What your Mom calls you" />
+            </fieldset>
+
+            <fieldset style="display: none;" class="pure-group">
+                <label for="message">Message: </label>
+                <textarea id="message" name="message" rows="10"
+                          placeholder="Tell us what's on your mind..."></textarea>
+            </fieldset>
+
+            <fieldset class="pure-group dis-inline">
+                <label for="email"></label>
+                <input style="width: 225px;" id="email" name="email" type="email" value=""
+                       required placeholder="ingresa tu correo electrónico"/>
+                <span id="email-invalid" style="display:none;">Debe ser una dirección valida</span>
+            </fieldset>
+
+            <fieldset style="display: none;" class="pure-group">
+                <label for="color">Favourite Color: </label>
+                <input id="color" name="color" placeholder="green" />
+            </fieldset>
+
+            <button class="button-success pure-button button-xlarge dis-inline btn-black" style="color:#fff;background:#000;cursor:pointer;">
+                <i class="fa fa-paper-plane"></i> ENVIAR</button>
+
+        </form>
+    </div>
+    <div class="container title-center">
+        <div style="display:none;" id="thankyou_message">
+            <h4>Gracias por subscribirte, tambien puedes encontrarnos en info@convoca.pe</h4>
+        </div>
+    </div>
+    <!-- Submit the Form to Google Using "AJAX" -->
+    <script data-cfasync="false" type="text/javascript"
+            src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
+    <!-- <script data-cfasync="false" type="text/javascript"
+    src="/form-submission-handler.js"></script> -->
+    <!-- END -->
+</div>
+</div>
+
+<section id="nuestros-proyectos" style="padding-bottom:40px;" class="sli-web">
+    <h2 class="title-left text-center" >Nuestros proyectos</h2>
+    <div class="container">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides-->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="carousel-item active ">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image img" src="http://memoriasdelacorrupcion.convoca.pe/img/interactivo/nota1/casos_emblematicos.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://memoriasdelacorrupcion.convoca.pe" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Memorias de la Corrupción</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image " src="http://convoca.pe/sites/default/files/styles/full_post/public/grupal-presidentes.jpg?itok=OoPqp_27" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href=" http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Expediente Lavajato</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Investiga Lavajato</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://ilusionfiscal.convoca.pe/img/header.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://ilusionfiscal.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Ilusion Fiscal</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="https://investigalavajato.convoca.pe/public/v3/assets/imgs/portada.jpg?v=1.2" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/viasobrecosto" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Vías sobre costo</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/juegosdelpoder/img/PUERTA-ABIERTA-min.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/juegosdelpoder/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Juegos del Poder</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/patrimonio-sa/img/img_congreso.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/patrimonio-sa/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Patrimonio S.A.</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/crisis-presidencial/img/ppk_uno.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/crisis-presidencial/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Crisis PPK</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/sites/default/files/styles/full_post/public/glencore_argentina_forbes_0.jpg?itok=ieOOUF9q" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/investigaciones/paradise-papers-los-negocios-de-glencore-en-argentina" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Paradise Paper</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://promesasppk.convoca.pe/img/ppk-nota.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://promesasppk.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Promesa PPK</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://tierraherida.convoca.pe/img/uca2fin.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://tierraherida.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Tierra Herida</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://excesosincastigo.convoca.pe/media/img/fondo_2.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://excesosincastigo.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Excesos sin Castigo</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/espinar/imagenes/imagen.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/espinar/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Espinar</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/AMAZONIA/imagenes/portada1.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/AMAZONIA/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Amazonía Arrasada</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/yakunija/images/box__3.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/convoca-radio/yakunija/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Yakunija</a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/ninasmadres/img/portada.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/ninasmadres/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Niñas Madres</a></div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev back-none" href="#myCarousel" data-slide="prev" style="width: 5% !important;">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next back-none" href="#myCarousel" data-slide="next" style="width: 5% !important;">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section id="nuestros-proyectos" style="padding-bottom:40px;" class="sli-mob">
+    <h2 class="title-left text-center" >Nuestros proyectos</h2>
+    <div class="container">
+        <div id="myCarouselmob" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides-->
+            <div class="carousel-inner" role="listbox">
+
+                <div class="carousel-item active ">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image img" src="http://memoriasdelacorrupcion.convoca.pe/img/interactivo/nota1/casos_emblematicos.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://memoriasdelacorrupcion.convoca.pe" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Memorias de la Corrupción</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image " src="http://convoca.pe/sites/default/files/styles/full_post/public/grupal-presidentes.jpg?itok=OoPqp_27" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href=" http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Expediente Lavajato</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Investiga Lavajato</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://ilusionfiscal.convoca.pe/img/header.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://ilusionfiscal.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Ilusion Fiscal</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="https://investigalavajato.convoca.pe/public/v3/assets/imgs/portada.jpg?v=1.2" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="https://investigalavajato.convoca.pe/viasobrecosto" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Vías sobre costo</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/juegosdelpoder/img/PUERTA-ABIERTA-min.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/juegosdelpoder/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Juegos del Poder</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/patrimonio-sa/img/img_congreso.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/patrimonio-sa/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Patrimonio S.A.</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/crisis-presidencial/img/ppk_uno.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/crisis-presidencial/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Crisis PPK</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/sites/default/files/styles/full_post/public/glencore_argentina_forbes_0.jpg?itok=ieOOUF9q" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/investigaciones/paradise-papers-los-negocios-de-glencore-en-argentina" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Paradise Paper</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://promesasppk.convoca.pe/img/ppk-nota.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://promesasppk.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Promesa PPK</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://tierraherida.convoca.pe/img/uca2fin.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://tierraherida.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Tierra Herida</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://excesosincastigo.convoca.pe/media/img/fondo_2.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://excesosincastigo.convoca.pe/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Excesos sin Castigo</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/especiales/espinar/imagenes/imagen.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://www.convoca.pe/especiales/espinar/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Espinar</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/AMAZONIA/imagenes/portada1.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/AMAZONIA/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Amazonía Arrasada</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://www.convoca.pe/yakunija/images/box__3.jpg" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/convoca-radio/yakunija/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Yakunija</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-3 item-carousel-convoca conta" style="border: 4px solid #fff;">
+                        <img class="image" src="http://convoca.pe/especiales/ninasmadres/img/portada.jpg?1.0.1" alt="Los Angeles">
+                        <div class="middle">
+                            <div class="text-1"><a href="http://convoca.pe/especiales/ninasmadres/" style="text-decoration:none !important;color:#4c4c4c;" target="_blank">Niñas Madres</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev back-none" href="#myCarouselmob" data-slide="prev" style="width: 5% !important;">
+                <span class="carousel-control-prev-icon"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next back-none" href="#myCarouselmob" data-slide="next" style="width: 5% !important;">
+                <span class="carousel-control-next-icon"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+
 <footer>
     <div class="container footer-container">
         <div class="row">
@@ -486,4 +861,3 @@
 </script>
 </body>
 </html>
-
