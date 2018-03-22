@@ -415,7 +415,11 @@
               <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
           </div> -->
           <div class="col-md-12">
+<<<<<<< HEAD
               <img class="div-img-responsiver" src="imagen/fotoguillen.jpg">
+=======
+              <img class="div-img-responsiver" src="imagen/fotoguillen.jpeg">
+>>>>>>> 6e794ebcdf11bb60dfbed249421468aa8e693996
           </div>
       </div>
 
