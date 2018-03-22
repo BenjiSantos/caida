@@ -75,10 +75,7 @@
 <section id="first-section">
     <div class="container-fluid">
         <div class="row none-display-video">
-            <video width="1280" height="720" id="video" class="col-md-12" autobuffer autoplay>
-                <source src="audio/video_ppk.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+            <img width="1280" height="650" src="imagen/despedida_ppk.png">
         </div>
         <div class="row none-display">
             <img class="div-img-responsive img" src="imagen/final4fuji.jpg">
