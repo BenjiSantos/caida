@@ -15,12 +15,33 @@
 .video-convoca {
    height: 650px;
 }
-
+.texto-tit{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 23%;
+}
+.texto-tit h1{
+  color: #B40404;
+}
 .titles-convoca {
     text-align: center;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
-
+#ninth-section{
+  height: 500px;
+}
+#ninth-section .container{
+  height: 100%;
+}
+#ninth-section .container .row{
+  height: 100%;
+}
+#ninth-section .container .row > .titles-convoca.{
+  height: 100%;
+}
+#ninth-section .container .row .titles-convoca img{
+  height: 100%;
+}
 .img-redondas {
     width:180px;
     height:180px;

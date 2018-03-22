@@ -291,6 +291,16 @@
         </div>
     </div>
 </section>
+<section id="none-section">
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-md-12">
+              <a style="color: black; text-decoration: none;" href="http://www.convoca.pe/agenda-propia/kenjivideos-cambios-de-funcionarios-de-tumbes-contradicen-version-del-gobierno-y" target="_blank"><h1 class="titles-convoca">Cambios de funcionarios contradicen versión del gobierno</h1></a>
+              <h6 class="titles-convoca">Convoca.pe detectó que autoridades fueron nombradas luego que legislador fujimorista se abstuviera de votar a favor de la vacancia presidencial de Kuczynski.</h6>
+          </div>
+      </div>
+  </div>
+</section>
 <section id="fifth-section">
     <div class="container">
         <h1 class="titles-convoca">Revelaciones de los #Kenjivideos</h1>
@@ -488,6 +498,37 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 titles-convoca">
+                <a href="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/" class="link-memorias">
+                    <img class="div-img-responsive" src="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/img/andina.jpg">
+                </a>
+            </div>
+            <div class="texto-tit">
+              <h1 class="text-center"><b>Expediente Lava Jato en Perú</b></h1>
+            </div>
+            <div class="texto-tit" style="margin-top:400px;margin-left:5%;margin-right:15%;">
+              <h6 class="text-center" style="color:#fff;">Explora un centenar de publicaciones sobre pagos de sobornos y financiamiento de campaña de las constructoras brasileñas y sus socias peruanas a altos funcionarios, políticos y empresarios peruanos</h6>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="ninth-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 titles-convoca">
+                <a href="http://investigalavajato.convoca.pe/" class="link-memorias">
+                    <img class="div-img-responsive" src="http://memoriasdelacorrupcion.convoca.pe/img/investiga-lavajato.jpg">
+                </a>
+            </div>
+            <div class="texto-tit" style="margin-top:400px;margin-left:5%;margin-right:15%;">
+              <h6 class="text-center" style="color:#fff;">"Investiga Lava Jato" es un proyecto colaborativo de veinte periodistas de América Latina y África para investigar el caso de corrupción más importante en los últimos tiempos.</h6>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="ninth-section" style="margin-bottom:80px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 titles-convoca">
                 <a href="http://memoriasdelacorrupcion.convoca.pe/archivorecuperado/" class="link-memorias">
                     Conoce a los principales investigados por corrupción en el Perú. Explora aquí
                     <img class="div-img-responsive" src="http://memoriasdelacorrupcion.convoca.pe/img/reportajes/nota3/portada1.jpg">
@@ -554,4 +595,3 @@
 </script>
 </body>
 </html>
-
