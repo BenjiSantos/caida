@@ -182,21 +182,12 @@
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>Los diarios ‘chicha’ y compra de líneas editorial</h6>
-                    En el fallo se dio cuenta que “(…) según los hechos probados el acusado Fujimori
-                    Fujimori, se apropió de fondos públicos para asegurar su continuidad en el poder,
-                    mediante el financiamiento de los denominados &#39;diarios chicha&#39;, lo que hizo
-                    aprovechando el status que el confería el cargo de Presidente de la República en
-                    ejercicio (…)”.
-                    <a id="fifth-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="fifth-paragraph">
-                        El 8 de enero de 2015, Fujimori fue condenado por el delito de peculado por haber
-                        ordenado el desvío de S/ 122 millones de los fondos de las Fuerzas Armadas al Servicio de
-                        Inteligencia Nacional para financiar a los llamados ‘diarios chicha’. Poco más de un año
-                        después, en agosto de 2016, la Sala Permanente de la Corte Suprema, lo absolvió del
-                        delito y anuló la condena.
-                        Descarga la sentencia <a href="https://issuu.com/convocape/docs/diarios_chicha" target="_blank">aquí.</a>
-                    </p>
+                    <h6>UIF detecta transferencias por US$ 900 mil a empresas de PPK que no fueron reportadas por Odebrecht</h6>
+                Al menos tres transferencias bancarias por un total de US$ 903,000, depositados en 2007 por consorcios
+                manejados por Odebrecht a nombre de la empresa del mandatario PPK, no fueron reportados por la mencionada
+                constructora a las autoridades peruanas, según se desprende de documentos de la Unidad de Inteligencia
+                Financiera (UIF) y reportes que la propia firma brasileña entregó a la Comisión Lava Jato en diciembre pasado.
+                    <a href="http://convoca.pe/agenda-propia/uif-detecta-transferencias-por-us-900-mil-empresa-de-ppk-que-no-fueron-reportadas-por" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
