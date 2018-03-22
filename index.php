@@ -91,7 +91,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class="titles-convoca sombra">La caída del Presidente</h1>
+                <h1 class="titles-convoca sombra">La caída de Kuczynski</h1>
                 <h6 class="titles-convoca">Por Convoca | Miércoles, 21 de marzo de 2018</h6>
                 <br>
                 <p>
@@ -191,7 +191,38 @@
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
-                <img class="img-redondas" src="imagen/3diarioschicha.jpg">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/ppkuco.jpg">
+            </div>
+        </div>
+
+        <!-- Text and image 6-->
+        <div class="row wow fadeInRightBig margin-div-row">
+            <div class="col-md-2 col-xs-12 div-img-responsive">
+                <img class="img-redondas" src="http://www.convoca.pe/sites/default/files/styles/full_post/public/foto_portada.jpg">
+            </div>
+            <div class="col-md-10 col-xs-12">
+                <p>
+                <h6>Cambios de funcionarios contradicen la versión del gobierno</h6>
+                Convoca.pe encontró que por lo menos dos funcionarios de Tumbes fueron desginados en los puestos mencionados
+                por el legislador Bienvenido Ramírez en uno de los 'Kenjivideos',  un mes y medio después que este legislador
+                se abstuviera de votar a favor de la vacancia presidencial de Kuczynski.
+                <a href="http://www.convoca.pe/agenda-propia/kenjivideos-cambios-de-funcionarios-de-tumbes-contradicen-version-del-gobierno-y" target="_blank" class="show-more-links">Ver más</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- Text and image 7 -->
+        <div class="row wow fadeInLeftBig margin-div-row">
+            <div class="col-md-10 col-xs-12">
+                <p>
+                <h6>Los nexos políticos del destituido funcionario que aparece en los #KenjiVideos</h6>
+                El funcionario Fredy Aragón Valdez, una de las personas grabadas por el legislador fujimorista Moisés Mamani para sustentar la “compra” de votos por parte del gobierno de Pedro Pablo Kuczynski, fue destituido tras la difusión de audios y videos en el Congreso por parte de la bancada de Fuerza Popular, unas horas antes.
+                Aragón estuvo vinculado a Perú Posible, el partido fundado por Alejandro Toledo, exmandatario prófugo en Estados Unidos por presuntos sobornos de Odebrecht. Aragón ingresó a Sucamec en 2016 durante la gestión ministerial de Carlos Basombrío, quien fue viceministro del Interior y jefe de Gabinete de Asesores de este ministerio durante el gobierno de Toledo (2001-2006).
+                <a href="http://convoca.pe/agenda-propia/los-nexos-politicos-del-destituido-funcionario-que-aparece-en-kenjivideos" target="_blank" class="show-more-links">Ver más</a>
+                </p>
+            </div>
+            <div class="col-md-2 col-xs-12 div-img-responsive">
+                <img class="img-redondas" src="http://convoca.pe/sites/default/files/styles/full_post/public/aragon_fin.png">
             </div>
         </div>
     </div>
@@ -368,6 +399,7 @@
         <h6 class="titles-convoca">El audio y la transcripción de la sesión extraordinaria de la Comisión Lava Jato del Congreso en Palacio de Gobierno con el saliente presidente  Pedro Pablo Kuczynski por sus vínculos con la empresa Odebrecht.</h6>
         <br>
         <div class="row">
+            <!--
             <div class="col-md-6">
                 <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
             </div>
@@ -379,6 +411,9 @@
             </div>
             <div class="col-md-6">
                 <iframe id='audio_17980674' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src='http://pe.ivoox.com/es/player_ej_17980674_4_1.html?c1=ff6600'></iframe>
+            </div> -->
+            <div class="col-md-12">
+                <img style="width: 100%" src="http://convoca.pe/sites/default/files/styles/full_post/public/crisis_ppk.jpg?itok=GYWSnJY-">
             </div>
         </div>
     </div>
