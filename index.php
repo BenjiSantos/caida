@@ -92,42 +92,16 @@
         <div class="row">
             <div class="col-md-12">
                 <h1 class="titles-convoca sombra">La caída del Presidente</h1>
+                <h6 class="titles-convoca">Por Convoca | Miércoles, 21 de marzo de 2018</h6>
+                <br>
                 <p>
-                    El indulto al exgobernante Alberto Fujimori, condenado a 25 años de prisión por
-                    crímenes contra los derechos humanos y corrupción, ha sido un tema que ha dividido a la opinión pública
-                    peruana en los últimos años. Desde que fue extraditado de Chile en 2007, a donde llegó luego de
-                    su huida al Japón, su posible liberación mediante una gracia presidencial fue un asunto recurrente
-                    cada cierto tiempo. <br><br>
-                    Entre idas y vueltas en tres gobiernos sucesivos, la ‘papa caliente’ llegó a Pedro Pablo Kuczynski,
-                    que había ganado la presidencia con el apoyo del voto antifujimorista. Uno de sus gestos de campaña,
-                    en efecto, fue la firma de un compromiso con los familiares de las víctimas de delitos de lesa humanidad,
-                    entre ellas, las de Fujimori y el Grupo Colina.
-                    Con este acto, PPK se obligó a cumplir “las sentencias y las recomendaciones de los sistemas internacionales
-                    de protección de los derechos humanos”.
-                    <a id="intro-buttom" class="show-more-links">Ver más</a>
+                    A poco más de un año y siete meses en el cargo, Pedro Pablo Kuczynski renunció esta tarde a la Presidencia del Perú a
+                    través de un Mensaje a Nación grabado durante la sesión de hoy del Consejo de Ministros,
+                    luego de la crisis desatada por los denominados 'Kenjivideos', difundidos ayer por Fuerza Popular en las que se
+                    dejaba entrever una presunta compra de votos a cambio de obras a solo dos días de debatirse la vacancia del
+                    Jefe de Estado en el Pleno del Congreso de la República.
+                    <a href="http://convoca.pe/agenda-propia/kuczynski-renuncio-la-presidencia-tras-crisis-por-revelacion-de-kenjivideos" class="show-more-links" target="_blank">Ver más</a>
                     <br>
-                    <p class="hide-paragraph" id="intro-paragraph">Pero la política pronto lo hizo cambiar de parecer. A pesar de haber negado la posibilidad de un
-                    indulto sin las condiciones establecidas o de proponer una norma general de arresto domiciliario para
-                    reos ancianos, en el último año empezó a declarar en medios internacionales con una postura cada vez
-                    más favorable al perdón del exmandatario. La tensión entre su gobierno y el parlamento, de mayoría
-                    fujimorista, escalaba día a día con las censuras de sus ministros y las recurrentes citaciones a
-                    la Comisión Lava Jato.<br><br>
-                    El momento crítico llegó el 21 de diciembre último, cuando se salvó de ser vacado de su cargo por
-                    sus supuestos vínculos con Odebrecht. La bancada del partido fujimorista Fuerza Popular fue la más
-                    entusiasta con su destitución y por poco la consigue sino fuera por el viraje sorpresivo de 10 de
-                    sus parlamentarios que, comandados por Kenji Fujimori, decidieron abstenerse luego de recibir llamadas
-                    de su propio líder histórico desde la prisión. <br><br>
-                    Tres días después, el actual presidente de la República decidió otorgarle el indulto y el derecho de
-                    gracia en medio de especulaciones de haber negociado los votos. Así, Fujimori no solo fue perdonado por
-                    los crímenes condenados: también se le sustrajo de los procesos penales vigentes, como el seguido por
-                    la masacre de seis campesinos en Pativilca, por el que el Ministerio Público ya había pedido a mediados
-                    de año una nueva condena por 25 años por asesinato. <br><br>
-                    Por lo pronto, la Corte Interamericana de Derechos Humanos realizará el 2 de febrero una audiencia
-                    sobre los casos de las matanzas de Barrios Altos y La Cantuta a la luz del indulto. Se espera que se
-                    pronuncie 30 días después. <br><br>
-                    Encuentra en el siguiente especial de Convoca.pe, reportajes, podcasts, fotografías sobre los sucesos
-                    relacionados al indulto de Alberto Fujimori, información en diferentes formatos que será actualizada con regularidad.
-                    </p>
                 </p>
             </div>
         </div>
@@ -144,23 +118,12 @@
         <!-- Text and image 1 -->
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
-                <h6>Allanamiento a casa de Trinidad Becerra, esposa de Vladimiro Montesinos</h6>
+                <h6>El inicio de la crisis de PPK</h6>
                 <p>
-                    En el fallo condenatorio, el primero contra el expresidente peruano, se menciona que “(…)
-                    Fujimori tenía pleno conocimiento de la ilicitud de su conducta, pero no se amilanó ni
-                    se desistió, sino que más bien lo realizó con prontitud y esmero.
-                    <a id="firts-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="first-paragraph">
-                    En diciembre de 2007, Alberto Fujimori recibió una condena de seis años de prisión
-                    efectiva por el delito de usurpación de funciones. En la sentencia se le halló responsable
-                    de ordenar a un militar que suplantó a un fiscal para allanar la casa de su socio Montesinos
-                    para desaparecer los llamados ‘vladivideos’, que evidenciaban pagos de la corrupción
-                    durante su gobierno.
-                    En abril de 2008, la Segunda Sala Especial de la Corte Suprema confirmó por unanimidad la
-                    condena.
-                    Descarga la confirmación de la sentencia
-                    <a class="show-more-links" href="https://www.scribd.com/document/368045530/Trinidad-Becerra" target="_blank">aquí</a> .
-                    </p>
+                    Con una votación agónica en el Congreso, Kuczynski logró permanecer en el cargo en medio del escándalo
+                    Lava Jato y gracias a la ayuda de congresistas agrupados por Kenji Fujimori, que se abstuvieron de votar
+                    a favor de la vacancia presidencial.
+                    <a href="http://convoca.pe/especiales/crisis-presidencial/" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
@@ -174,24 +137,12 @@
                 <img class="img-redondas" src="imagen/2cantuta.jpg">
             </div>
             <div class="col-md-10 col-xs-12">
-                <h6>Casos La Cantuta, Barrios Altos y detenciones de Gustavo Gorriti y Samuel Dyer</h6>
+                <h6>Revelación de Odebrecht sobre conferencia de PPK</h6>
                 <p>
-                    En la resolución, de más de 700 páginas, se indica que “(…) frente a cada denuncia
-                    pública, revelación periodística o actividad de investigación que sugería razonablemente
-                    una intervención delictiva de agentes y personajes de inteligencia en los hechos de
-                    Barrios Altos y La Cantuta, la respuesta desde el Estado, bajo la conducción del Servicio
-                    de Inteligencia Nacional (SIN), fue un elaborado mecanismo de encubrimiento que
-                    incluyó la negación de las fuentes, el descrédito de los denunciantes, la persecución de
-                    los disidentes (…)”.
-                    <a id="second-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="second-paragraph">
-                    El 7 de abril de 2009, Alberto Fujimori fue condenado a 25 años de prisión por los delitos
-                    de homicidio calificado con alevosía, por las matanzas de Barrios Altos y La Cantuta.
-                    También se incluyeron los casos de los secuestros del periodista Gustavo Gorriti y del
-                    empresario Samuel Dyer. Esta fue la condena de mayor tiempo que se ordenó contra el ex
-                    mandatario.
-                    Descarga la resolución <a href="https://issuu.com/convocape/docs/cantuta_barrios_altos" target="_blank">aquí.</a>
-                    </p>
+                    Marcelo Odebrecht aseguró en el interrogatorio en Curitiba de noviembre último que Pedro Pablo Kuczynski,
+                    luego de ser funcionario en el gobierno de Alejandro Toledo y antes de su elección como Presidente,
+                    fue contratado por la empresa brasileña Odebrecht para dar una conferencia en Lima.
+                    <a href="http://convoca.pe/agenda-propia/la-conferencia-de-ppk-que-confeso-odebrecht" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
         </div>
@@ -200,20 +151,12 @@
         <div class="row wow fadeInLeftBig margin-div-row">
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>Los US$ 15 millones a Montesinos</h6>
-                    En la resolución se indica que “Alberto Fujimori (…) ideó y ejecutó acciones ilícitas
-                    propias de un poder corrupto, conjuntamente con el ex asesor del Servicio de
-                    Inteligencia Nacional (…) Vladimiro Montesinos Torres y sus exministros Carlos Boloña,
-                    Carlos Bergamino Cruz y Federico Salas Guevara Schultz, con el fin de disponer y
-                    apropiarse del dinero del Estado (…).
-                    <a id="third-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="third-paragraph">
-                        El 20 de julio del 2009, Alberto Fujimori fue condenado a 7 años y medio de prisión por el
-                        delito de peculado doloso y falsedad ideológica, luego de que se comprobara el pago de
-                        15 millones de dólares a Vladimiro Montesinos por una supuesta compensación de tiempo
-                        de servicios (CTS). Esta representó la tercera sentencia contra el exmandatario peruano.
-                        Descarga la sentencia <a href="https://es.scribd.com/document/368045476/15-millones-de-dolares-a-Montesinos" target="_blank">aquí.</a>
-                    </p>
+                    <h6>Confesiones de Barata en Sao Paulo</h6>
+                Jorge Barata, ex Superintendente de Odebrecht en Perú, señaló que entregó 300 mil dólares para la campaña
+                electoral de 2011, año que postuló Kuczynski a la Presidencia del Perú al frente de la Alianza por el Gran
+                Cambio. El exdirectivo de Odebrecht relató que la intermediaria fue la empresaria Susana de la Puente,
+                embajadora de Perú en Reino Unido.
+                    <a href="http://convoca.pe/agenda-propia/caso-odebrecht-barata-revela-modus-operandi-de-aportes-campana-de-keiko-fujimori" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
             <div class="col-md-2 col-xs-12 div-img-responsive">
@@ -228,28 +171,9 @@
             </div>
             <div class="col-md-10 col-xs-12">
                 <p>
-                    <h6>Caso congresistas tránsfugas</h6>
-                    En la sentencia se menciona que “(…) Alberto Fujimori Fujimori, como no obtuvo la
-                    mayoría parlamentaria en el proceso electoral del 9 de abril de 2000, encomendó a su
-                    exasesor Vladimiro Montesinos poner en marcha un conjunto de acciones y estrategias
-                    destinadas a conseguirla a como diera lugar (…)”.
-                    Se agrega: “(…) La entrega de dinero, en algunos casos, tuvo el propósito de que ciertos
-                    parlamentarios abandonen sus bancadas de origen por las que fueron elegidos, y se
-                    integren a las filas de la bancada oficialista del régimen presidido por Alberto Fujimori, y
-                    actúen conforme a las instrucciones que se les impartían (…)”.
-                    <a id="fourth-buttom" class="show-more-links">Ver más</a>
-                    <p class="hide-paragraph" id="fourth-paragraph">
-                        El 30 de setiembre del 2009, Fujimori fue condenado por los pagos ilegales a los
-                        congresistas tránsfugas, por el espionaje a políticos y periodistas, y por la compra de Cable
-                        Canal de Noticias y de la línea editorial del diario “Expreso”. Fue la cuarta sentencia
-                        impuesta al exmandatario. La Sala Penal Especial de la Corte Suprema también estableció
-                        el pago de S/.27’060,216 por reparación civil por los tres casos de corrupción.
-                        La fiscalía había pedido ocho años de pena, pero se redujo a seis años de privación de la
-                        libertad. Días antes de la lectura de sentencia, Fujimori había admitido los cargos para
-                        acogerse a la “terminación anticipada” y así evitarse un largo proceso.
-
-                        Descarga la sentencia <a class="show-more-links" href="https://es.scribd.com/document/368045380/Congresistas-transfuga" target="_blank">aquí.</a>
-                    </p>
+                <h6>Se inicia nuevo proceso en el legislativo para destituir al presidente kuczynski</h6>
+                Apenas dos meses después de que PPK se salvará de la destitución en el Congreso, se volvió a presentar una moción de vacancia presidencial en su contra por "incapacidad moral", con la adhesión de 30 legisladores de distintas bancadas parlamentarias. Se estimaba que este pedido sería debatido y votado en el pleno del Legislativo el 22 de marzo, tras la presentación de Kuczynski ante la Comisión Lava Jato.
+                    <a href="http://convoca.pe/agenda-propia/se-inicia-nuevo-proceso-en-el-legislativo-para-destituir-al-presidente-kuczynski" target="_blank" class="show-more-links">Ver más</a>
                 </p>
             </div>
         </div>
