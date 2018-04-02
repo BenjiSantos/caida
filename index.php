@@ -421,9 +421,14 @@
           </div> -->
           <div class="col-md-12">
               <img class="div-img-responsiver" src="imagen/fotoguillen.jpg">
+              <a style="color: black; text-decoration: none;" href="http://convoca.pe/convoca-radio/convocaradio-martin-vizcarra-el-nuevo-presidente-del-peru" target="_blank">
+                  <h1 class="titles-convoca margin-div-row">#ConvocaRadio Martín Vizcarra, el nuevo presidente del Perú.</h1>
+              </a>
+              <h6 class="titles-convoca">Programa #CaféConvoca sobre el caso Kuczynski</h6>
+              <br>
+              <iframe id='audio_24750619' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_24750619_4_1.html?c1=ff6600"></iframe>
           </div>
       </div>
-
   </div>
 </section>
 <section id="ninth-" style="margin-top: 22px">
