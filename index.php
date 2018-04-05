@@ -64,12 +64,81 @@
     <nav class="navbar navbar-toggleable-md navbar-light bg-faded nav-convoca">
         <a href="http://convoca.pe" target="_blank"><img src="http://convoca.pe/especiales/crisis-presidencial/img/Convoca%20Logo%20Blanco-01.png" class="navbar-toggler navbar-toggler-right logo-convoca" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation"></a>
         <ul class="ul-convoca" style="margin-left:0;">
-            <li style="display: inline; text-align: right;"><a class="icon-sus navbar-brand nav-convoca-items" href="https://docs.google.com/forms/d/e/1FAIpQLScIbS5f6rKV95YuypcDnpPDQUZ4UwL8o8WN-bkT5mx0AGUslQ/viewform">Suscríbete</a></li>
+            <li style="display: inline; text-align: right;"><a  class="btn-modal" data-toggle="modal" data-target="#mymodal">Suscríbete</a></li>
             <li style="display: inline"><a href="#first-section"><i class="fa fa-home icons-convoca" aria-hidden="true"></i></a></li>
             <li style="display: inline"><a href="javascript:var dir=window.document.URL;var tit=window.document.title;var tit2=encodeURIComponent(tit);var dir2= encodeURIComponent(dir);window.open('http://www.facebook.com/share.php?u='+dir2+'&amp;t='+tit2+'','ventana','width=600,height=400,left=50,top=50,toolbar=yes');void 0"> <i class="fa fa-facebook icons-convoca" aria-hidden="true"></i></a></li>
             <li style="display: inline"><a href="javascript:var dir=window.document.URL;var tit='Conoce cómo fueron los últimos días de PPK en la Presidencia de Perú';var tit2=encodeURIComponent(tit);window.open('http://twitter.com/?status='+tit2+'%20'+dir+'','ventana','width=600,height=400,left=50,top=50,toolbar=yes');void 0"><i class="fa fa-twitter icons-convoca" aria-hidden="true"></i></a></li>
         </ul>
     </nav>
+    <div class="modal fade" id="mymodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="text-align:center;">
+        <img src="http://paradisepapers.convoca.pe/images/logo-pie.jpg" class="img-modal" alt="">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="modal-body">
+        <!-- Begin MailChimp Signup Form -->
+        <!-- Begin MailChimp Signup Form -->
+        <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+        <style type="text/css">
+        	#mc_embed_signup{background:#fff;}
+        </style>
+        <div id="mc_embed_signup">
+        <form action="https://convoca.us10.list-manage.com/subscribe/post?u=fc17bd11c5057fa37d40d1d4e&amp;id=f13e21d146" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+        	<h2 class="text-center">Suscribete</h2>
+        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+        <div class="mc-field-group">
+        	<label for="mce-FNAME">Nombre Completo  <span class="asterisk">*</span>
+        </label>
+        	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+        </div>
+        <div class="mc-field-group">
+        	<label for="mce-EMAIL">Correo Electrónico  <span class="asterisk">*</span>
+        </label>
+        	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+        </div>
+        <div class="mc-field-group">
+        	<label for="mce-PNAME">Project </label>
+        	<input type="text" value="" name="PNAME" class="" id="mce-PNAME">
+        </div>
+        <div class="mc-field-group">
+        	<label for="mce-LNAME">Profesión </label>
+        	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+        </div>
+        <div class="mc-field-group">
+        	<label for="mce-MMERGE4">Edad </label>
+        	<input type="text" value="" name="MMERGE4" class="" id="mce-MMERGE4">
+        </div>
+        <div class="mc-field-group">
+        	<label for="mce-MMERGE5">País </label>
+        	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
+        </div>
+        <div class="mc-field-group input-group">
+            <strong>¿Cómo conociste a Convoca? </strong>
+            <ul><li><input type="radio" value="Redes sociales" name="MMERGE6" id="mce-MMERGE6-0"><label for="mce-MMERGE6-0">Redes sociales</label></li>
+        <li><input type="radio" value="Recomendación de amigo/familiar" name="MMERGE6" id="mce-MMERGE6-1"><label for="mce-MMERGE6-1">Recomendación de amigo/familiar</label></li>
+        <li><input type="radio" value="Por nuestras investigaciones" name="MMERGE6" id="mce-MMERGE6-2"><label for="mce-MMERGE6-2">Por nuestras investigaciones</label></li>
+        <li><input type="radio" value="Tv, radio, diarios o portales de información" name="MMERGE6" id="mce-MMERGE6-3"><label for="mce-MMERGE6-3">Tv, radio, diarios o portales de información</label></li>
+        <li><input type="radio" value="Otros" name="MMERGE6" id="mce-MMERGE6-4"><label for="mce-MMERGE6-4">Otros</label></li>
+        </ul>
+        </div>
+        	<div id="mce-responses" class="clear">
+        		<div class="response" id="mce-error-response" style="display:none"></div>
+        		<div class="response" id="mce-success-response" style="display:none"></div>
+        	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fc17bd11c5057fa37d40d1d4e_f13e21d146" tabindex="-1" value=""></div>
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            </div>
+        </form>
+        </div>
+
+        <!--End mc_embed_signup-->
+      </div>
+    </div>
+  </div>
+</div>
 </header>
 <body>
 <section id="first-section">
@@ -475,31 +544,28 @@
 </section>
 <div class="container title-center suscribe">
     <div class="suscribe-inline">
-        <img class="img-suscribe" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
+        <img class="img-suscribe" style="margin-bottom:0;" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
     </div>
 
     <!-- Begin MailChimp Signup Form -->
     <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
     <style type="text/css">
-        #mc_embed_signup{color:#fff;clear:left; }
+        #mc_embed_signup{color:#000;clear:left; }
     </style>
-    <div id="mc_embed_signup">
+    <div id="mc_embed_signup" style="width:80%;padding-left:20%;">
         <form action="https://convoca.us10.list-manage.com/subscribe/post?u=fc17bd11c5057fa37d40d1d4e&amp;id=f13e21d146" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
-
-                <div class="indicates-required"><span class="asterisk">*</span> Indica requerido</div>
-                <div class="mc-field-group">
+        <div class="mc-field-group" style="padding-bottom:0;">
                     <label for="mce-FNAME">Nombre Completo  <span class="asterisk">*</span>
                     </label>
                     <input type="text" value="" name="FNAME" class="required" id="mce-FNAME" style="color:#000;">
                 </div>
-                <div class="mc-field-group">
+                <div class="mc-field-group" style="padding-bottom:0;">
                     <label for="mce-EMAIL">Correo  <span class="asterisk">*</span>
                     </label>
                     <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="color:#000;">
                 </div>
-                <div class="mc-field-group">
-                    <label for="mce-MPRENT1">¿De qué manera puedes participar? </label>
+                <div class="mc-field-group" style="min-height:10px;padding-bottom:0;">
                     <input type="hidden" value="La caida de" name="PNAME" class="" id="mce-PNAME" style="color:#000;">
                 </div>
                 <div id="mce-responses" class="clear">
@@ -507,46 +573,13 @@
                     <div class="response" id="mce-success-response" style="display:none"></div>
                 </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fc17bd11c5057fa37d40d1d4e_3590fd99a0" tabindex="-1" value=""></div>
-                <div class="clear"><input type="submit" value="Inscribete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                <div class="clear" style="width:100%;text-align:center;"><input type="submit" value="Suscribete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
         </form>
 
         <!-- END FORM MAILCHIMP -->
 
-    <div class="suscribe-inline">
-        <form id="gform" method="POST" class="pure-form pure-form-stacked"
-              action="https://script.google.com/macros/s/AKfycbzFsmEuJOx_PhkNjIbZVBZ_ZX-6ydeLrVn3JFadZ17vZTB6jSU/exec">
-            <!-- change the form action to your script url -->
-            <h4 style="color: rgb(238, 160, 49);">Suscríbete</h4>
-            <p>y sé el primero en leer nuestras investigaciones</p>
-            <fieldset style="display: none;" class="pure-group">
-                <label for="name">Name: </label>
-                <input id="name" name="name" placeholder="What your Mom calls you" />
-            </fieldset>
 
-            <fieldset style="display: none;" class="pure-group">
-                <label for="message">Message: </label>
-                <textarea id="message" name="message" rows="10"
-                          placeholder="Tell us what's on your mind..."></textarea>
-            </fieldset>
-
-            <fieldset class="pure-group dis-inline">
-                <label for="email"></label>
-                <input style="width: 225px;" id="email" name="email" type="email" value=""
-                       required placeholder="ingresa tu correo electrónico"/>
-                <span id="email-invalid" style="display:none;">Debe ser una dirección valida</span>
-            </fieldset>
-
-            <fieldset style="display: none;" class="pure-group">
-                <label for="color">Favourite Color: </label>
-                <input id="color" name="color" placeholder="green" />
-            </fieldset>
-
-            <button class="button-success pure-button button-xlarge dis-inline btn-black" style="color:#fff;background:#000;cursor:pointer;">
-                <i class="fa fa-paper-plane"></i> ENVIAR</button>
-
-        </form>
-    </div>
     <div class="container title-center">
         <div style="display:none;" id="thankyou_message">
             <h4>Gracias por subscribirte, tambien puedes encontrarnos en info@convoca.pe</h4>

@@ -68,3 +68,20 @@
 .sli-mob{
 	display: none;
 }
+#mc_embed_signup .button{
+	background:#f95f38 !important;
+	padding:0px 40px !important;
+}
+#mc_embed_signup .button:hover{
+	background:#ff5200 !important;
+}
+.btn-modal{
+	background: #000 !important;
+	color: #fff !important;
+	cursor: pointer;
+	margin-right: 5px;
+}
+.img-modal{
+	width: 100px;
+	height: auto;
+}
