@@ -477,6 +477,42 @@
     <div class="suscribe-inline">
         <img class="img-suscribe" src="http://paradisepapers.convoca.pe/images/logo-pie.jpg">
     </div>
+
+    <!-- Begin MailChimp Signup Form -->
+    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #mc_embed_signup{color:#fff;clear:left; }
+    </style>
+    <div id="mc_embed_signup">
+        <form action="https://convoca.us10.list-manage.com/subscribe/post?u=fc17bd11c5057fa37d40d1d4e&amp;id=f13e21d146" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+
+                <div class="indicates-required"><span class="asterisk">*</span> Indica requerido</div>
+                <div class="mc-field-group">
+                    <label for="mce-FNAME">Nombre Completo  <span class="asterisk">*</span>
+                    </label>
+                    <input type="text" value="" name="FNAME" class="required" id="mce-FNAME" style="color:#000;">
+                </div>
+                <div class="mc-field-group">
+                    <label for="mce-EMAIL">Correo  <span class="asterisk">*</span>
+                    </label>
+                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="color:#000;">
+                </div>
+                <div class="mc-field-group">
+                    <label for="mce-MPRENT1">¿De qué manera puedes participar? </label>
+                    <input type="hidden" value="La caida de" name="PNAME" class="" id="mce-PNAME" style="color:#000;">
+                </div>
+                <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fc17bd11c5057fa37d40d1d4e_3590fd99a0" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Inscribete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            </div>
+        </form>
+
+        <!-- END FORM MAILCHIMP -->
+
     <div class="suscribe-inline">
         <form id="gform" method="POST" class="pure-form pure-form-stacked"
               action="https://script.google.com/macros/s/AKfycbzFsmEuJOx_PhkNjIbZVBZ_ZX-6ydeLrVn3JFadZ17vZTB6jSU/exec">
