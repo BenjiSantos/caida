@@ -82,7 +82,7 @@
         <!-- Begin MailChimp Signup Form -->
         <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
         <style type="text/css">
-        	#mc_embed_signup{background:#fff;}
+        	#mc_embed_signup{background:#fff;  }
         </style>
         <div id="mc_embed_signup">
         <form action="https://convoca.us10.list-manage.com/subscribe/post?u=fc17bd11c5057fa37d40d1d4e&amp;id=f13e21d146" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
