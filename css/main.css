@@ -293,6 +293,9 @@ footer {
         margin-top: 48px !important;
         padding: 20px;
     }
+    #titmo{
+      display: none;
+    }
     .nav-convoca > a{
       width: 35%;
     }

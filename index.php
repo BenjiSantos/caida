@@ -48,7 +48,7 @@
         <link rel="icon" type="image/png" href="http://convoca.pe/especiales/lava-jato-y-castillo-de-arena/favicon.png">
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    
+
         <script src="js/main.js"></script>
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -76,9 +76,10 @@
     <div class="modal-content">
       <div class="modal-header" style="text-align:center;">
         <img src="http://paradisepapers.convoca.pe/images/logo-pie.jpg" class="img-modal" alt="">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h2 style="font-size:1.1rem;margin-top:18px;font-weight:bold;color:#000;margin-left:70px;" id="titmo">PERIODISMO DE INVESTIGACIÓN Y ANÁLISIS DE DATOS</h2>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" style="font-size:3rem;cursor:pointer;">&times;</span></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body" style="padding-top:0px;">
         <!-- Begin MailChimp Signup Form -->
         <!-- Begin MailChimp Signup Form -->
         <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -88,15 +89,15 @@
         <div id="mc_embed_signup">
         <form action="https://convoca.us10.list-manage.com/subscribe/post?u=fc17bd11c5057fa37d40d1d4e&amp;id=f13e21d146" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
-        	<h1 class="text-center" style="color:#f95f38;"> <b>Suscríbete a Convoca</b> </h1>
-          <h6 class="text-center">Únete a nuestra comunidad de lectores para recibir las investigaciones y todas las novedades que publiquemos. Regístrate en este formulario.</h6>
-        <div class="indicates-required"><span class="asterisk">*</span> indica requerido</div>
-        <div class="mc-field-group">
+        	<h2 class="text-center" style="color:#f95f38;font-size:30px;"> <b>Suscríbete a Convoca</b> </h2>
+          <h6 class="text-center">Únete a nuestra comunidad de lectores para recibir las investigaciones y todas las novedades que publiquemos. Regístrate aquí.</h6>
+        <div class="indicates-required"><span class="asterisk">*</span> obligatorio</div>
+        <div class="mc-field-group" style="padding-bottom:1%;">
         	<label for="mce-FNAME">Nombre Completo  <span class="asterisk">*</span>
         </label>
         	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
         </div>
-        <div class="mc-field-group">
+        <div class="mc-field-group" style="padding-bottom:1%;">
         	<label for="mce-EMAIL">Correo Electrónico  <span class="asterisk">*</span>
         </label>
         	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
@@ -104,25 +105,25 @@
         <div class="mc-field-group"  style="min-height:10px;padding-bottom:0;">
           <input type="hidden" value="La caida de" name="PNAME" class="" id="mce-PNAME">
         </div>
-        <div class="mc-field-group">
+        <div class="mc-field-group" style="padding-bottom:1%;">
         	<label for="mce-LNAME">Profesión </label>
         	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
         </div>
-        <div class="mc-field-group">
+        <div class="mc-field-group" style="padding-bottom:1%;">
         	<label for="mce-MMERGE4">Edad </label>
         	<input type="text" value="" name="MMERGE4" class="" id="mce-MMERGE4">
         </div>
-        <div class="mc-field-group">
+        <div class="mc-field-group" style="padding-bottom:1%;">
         	<label for="mce-MMERGE5">País </label>
         	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
         </div>
-        <div class="mc-field-group input-group" style="display:block;">
+        <div class="mc-field-group input-group" style="display:block;padding-bottom:1%;">
             <label ><strong>¿Cómo conociste a Convoca? </strong></label>
-            <ul><li><input type="radio" value="Redes sociales" name="MMERGE6" id="mce-MMERGE6-0"><label for="mce-MMERGE6-0">Redes sociales</label></li>
-        <li><input type="radio" value="Recomendación de amigo/familiar" name="MMERGE6" id="mce-MMERGE6-1"><label for="mce-MMERGE6-1">Recomendación de amigo/familiar</label></li>
-        <li><input type="radio" value="Por nuestras investigaciones" name="MMERGE6" id="mce-MMERGE6-2"><label for="mce-MMERGE6-2">Por nuestras investigaciones</label></li>
-        <li><input type="radio" value="Tv, radio, diarios o portales de información" name="MMERGE6" id="mce-MMERGE6-3"><label for="mce-MMERGE6-3">Tv, radio, diarios o portales de información</label></li>
-        <li><input type="radio" value="Otros" name="MMERGE6" id="mce-MMERGE6-4"><label for="mce-MMERGE6-4">Otros</label></li>
+            <ul style="margin-left:20px;"><li><input type="radio" value="Redes sociales" name="MMERGE6" id="mce-MMERGE6-0">  <label for="mce-MMERGE6-0">Redes sociales</label></li>
+        <li><input type="radio" value="Recomendación de amigo/familiar" name="MMERGE6" id="mce-MMERGE6-1">  <label for="mce-MMERGE6-1">Recomendación de amigo/familiar</label></li>
+        <li><input type="radio" value="Por nuestras investigaciones" name="MMERGE6" id="mce-MMERGE6-2">  <label for="mce-MMERGE6-2">Por nuestras investigaciones</label></li>
+        <li><input type="radio" value="Tv, radio, diarios o portales de información" name="MMERGE6" id="mce-MMERGE6-3">  <label for="mce-MMERGE6-3">Televisión, radio, diarios o portales de información</label></li>
+        <li><input type="radio" value="Otros" name="MMERGE6" id="mce-MMERGE6-4">  <label for="mce-MMERGE6-4">Otros</label></li>
         </ul>
         </div>
         	<div id="mce-responses" class="clear">
