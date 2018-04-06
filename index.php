@@ -71,7 +71,7 @@
         </ul>
     </nav>
     <div class="modal fade" id="mymodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-  <div class="modal-dialog" role="document">
+  <div class="modal-dialog" role="document" style="max-width:800px;">
     <div class="modal-content">
       <div class="modal-header" style="text-align:center;">
         <img src="http://paradisepapers.convoca.pe/images/logo-pie.jpg" class="img-modal" alt="">
@@ -87,8 +87,9 @@
         <div id="mc_embed_signup">
         <form action="https://convoca.us10.list-manage.com/subscribe/post?u=fc17bd11c5057fa37d40d1d4e&amp;id=f13e21d146" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
-        	<h2 class="text-center">Suscribete</h2>
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+        	<h1 class="text-center" style="color:#f95f38;"> <b>Suscríbete a Convoca</b> </h1>
+          <h6 class="text-center">Únete a nuestra comunidad de lectores para recibir las investigaciones y todas las novedades que publiquemos. Regístrate en este formulario.</h6>
+        <div class="indicates-required"><span class="asterisk">*</span> indica requerido</div>
         <div class="mc-field-group">
         	<label for="mce-FNAME">Nombre Completo  <span class="asterisk">*</span>
         </label>
@@ -99,9 +100,8 @@
         </label>
         	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
         </div>
-        <div class="mc-field-group">
-        	<label for="mce-PNAME">Project </label>
-        	<input type="text" value="" name="PNAME" class="" id="mce-PNAME">
+        <div class="mc-field-group"  style="min-height:10px;padding-bottom:0;">
+          <input type="hidden" value="La caida de" name="PNAME" class="" id="mce-PNAME">
         </div>
         <div class="mc-field-group">
         	<label for="mce-LNAME">Profesión </label>
@@ -115,8 +115,8 @@
         	<label for="mce-MMERGE5">País </label>
         	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
         </div>
-        <div class="mc-field-group input-group">
-            <strong>¿Cómo conociste a Convoca? </strong>
+        <div class="mc-field-group input-group" style="display:block;">
+            <label ><strong>¿Cómo conociste a Convoca? </strong></label>
             <ul><li><input type="radio" value="Redes sociales" name="MMERGE6" id="mce-MMERGE6-0"><label for="mce-MMERGE6-0">Redes sociales</label></li>
         <li><input type="radio" value="Recomendación de amigo/familiar" name="MMERGE6" id="mce-MMERGE6-1"><label for="mce-MMERGE6-1">Recomendación de amigo/familiar</label></li>
         <li><input type="radio" value="Por nuestras investigaciones" name="MMERGE6" id="mce-MMERGE6-2"><label for="mce-MMERGE6-2">Por nuestras investigaciones</label></li>
@@ -129,7 +129,7 @@
         		<div class="response" id="mce-success-response" style="display:none"></div>
         	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fc17bd11c5057fa37d40d1d4e_f13e21d146" tabindex="-1" value=""></div>
-            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+            <div class="clear"style="width:100%;text-align:center;"><input type="submit" value="Suscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
         </form>
         </div>
@@ -573,7 +573,7 @@
                     <div class="response" id="mce-success-response" style="display:none"></div>
                 </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fc17bd11c5057fa37d40d1d4e_3590fd99a0" tabindex="-1" value=""></div>
-                <div class="clear" style="width:100%;text-align:center;"><input type="submit" value="Suscribete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                <div class="clear" style="width:100%;text-align:center;"><input type="submit" value="Suscríbete" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
         </form>
 
